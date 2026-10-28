@@ -3,17 +3,6 @@
 Een oefen-app voor de telefoon, met dagmissies, flashcards, grammatica, leesteksten, spelletjes, streaks en beloningen.
 De app draait gratis op GitHub Pages. Alle leerstof staat in gewone tekstbestanden die je zelf kunt aanvullen.
 
-## Online zetten (eenmalig, ca. 10 minuten)
-
-1. Maak een (gratis) account op github.com.
-2. Klik rechtsboven op **+ → New repository**. Naam bijvoorbeeld `duits-5havo`. Kies **Public** en klik **Create repository**.
-3. Klik op **uploading an existing file** en sleep alle bestanden en mappen uit deze zip erin. Klik **Commit changes**.
-4. Ga naar **Settings → Pages**. Kies bij *Branch* `main` en `/ (root)` en klik **Save**.
-5. Na 1–2 minuten staat de app op `https://<jouw-gebruikersnaam>.github.io/duits-5havo/`.
-6. Open die link op de telefoon en kies **Zet op beginscherm** (iPhone: deel-knop; Android: menu ⋮). Dan werkt hij als een app, ook offline.
-
-Let op: een publieke repository is voor iedereen leesbaar. Zet er dus geen privégegevens in.
-
 ## Leerstof toevoegen
 
 Alles staat in de map `content/`. Na het aanpassen op GitHub (potloodje → wijzigen → *Commit changes*) staat het binnen een minuut in de app.
