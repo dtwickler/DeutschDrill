@@ -1,0 +1,160 @@
+{
+ "onderwerp": "C6 Naar, bij en voor",
+ "uitleg": "Naar\n• zu (+3) bij personen (Ich gehe zu meiner Oma) en vaak bij dingen (Er geht zur Schule).\n• nach (+3) bij aardrijkskundige namen zonder lidwoord (Wir fliegen nach Spanien) en vaste uitdrukkingen: nach rechts, nach unten, nach Hause.\n• in (+4) bij aardrijkskundige namen met lidwoord (Fahren Sie in die Türkei?) en vaste uitdrukkingen: in die Disko, ins Kino, ins Büro, in die Stadt, ins Theater, in den Keller.\n\nBij\n• bei (+3) = je ergens bevinden: Ich bin bei meinem Onkel.\n• zu (+3) = ergens aankomen: Wann kommst du zu mir?\n\nVoor\n• für (+4) = ten behoeve van (ein Geschenk für meine Schwester) en tijdsduur (Er kommt für eine Woche zu uns).\n• vor (+3/+4) = plaats: Der Wagen steht vor der Tür. Ich setze mich vor das Fenster.\n• vor (+3) = geleden: Vor einer Woche war ich beim Zahnarzt.",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Ich gehe heute ___ meiner Oma.",
+   "antwoord": "zu",
+   "opties": [
+    "zu",
+    "nach",
+    "bei"
+   ],
+   "waarom": "Naar een persoon → zu."
+  },
+  {
+   "type": "gat",
+   "zin": "Er geht jeden Tag ___ Schule.",
+   "antwoord": "zur",
+   "opties": [
+    "zur",
+    "nach",
+    "bei"
+   ],
+   "waarom": "Naar een ding: vaak zu (zu der → zur)."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir fliegen im Sommer ___ Spanien.",
+   "antwoord": "nach",
+   "opties": [
+    "nach",
+    "zu",
+    "in"
+   ],
+   "waarom": "Land zonder lidwoord → nach."
+  },
+  {
+   "type": "gat",
+   "zin": "Fahren Sie dieses Jahr ___ die Türkei?",
+   "antwoord": "in",
+   "opties": [
+    "in",
+    "nach",
+    "zu"
+   ],
+   "waarom": "Land mét lidwoord → in + Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir fahren im Winter ___ die Schweiz.",
+   "antwoord": "in",
+   "opties": [
+    "in",
+    "nach",
+    "zur"
+   ],
+   "waarom": "die Schweiz heeft een lidwoord → in die Schweiz."
+  },
+  {
+   "type": "gat",
+   "zin": "Morgen gehen wir ___ Kino.",
+   "antwoord": "ins",
+   "opties": [
+    "ins",
+    "nach",
+    "im"
+   ],
+   "waarom": "Vaste uitdrukking: ins Kino."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich gehe jetzt ___ Hause.",
+   "antwoord": "nach",
+   "opties": [
+    "nach",
+    "zu",
+    "bei"
+   ],
+   "waarom": "Naar huis → nach Hause (zu Hause = thuis)."
+  },
+  {
+   "type": "gat",
+   "zin": "Biegen Sie an der Ampel ___ rechts ab.",
+   "antwoord": "nach",
+   "opties": [
+    "nach",
+    "zu",
+    "in"
+   ],
+   "waarom": "Vaste uitdrukking: nach rechts."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich bin heute ___ meinem Onkel.",
+   "antwoord": "bei",
+   "opties": [
+    "bei",
+    "zu",
+    "nach"
+   ],
+   "waarom": "Je ergens bevinden → bei."
+  },
+  {
+   "type": "gat",
+   "zin": "Wann kommst du ___ mir?",
+   "antwoord": "zu",
+   "opties": [
+    "zu",
+    "bei",
+    "nach"
+   ],
+   "waarom": "Ergens aankomen → zu."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich kaufe ein Geschenk ___ meine Schwester.",
+   "antwoord": "für",
+   "opties": [
+    "für",
+    "vor",
+    "zu"
+   ],
+   "waarom": "Ten behoeve van → für."
+  },
+  {
+   "type": "gat",
+   "zin": "Er kommt ___ eine Woche zu uns.",
+   "antwoord": "für",
+   "opties": [
+    "für",
+    "vor",
+    "seit"
+   ],
+   "waarom": "Tijdsduur → für."
+  },
+  {
+   "type": "gat",
+   "zin": "___ einer Woche war ich beim Zahnarzt.",
+   "antwoord": "Vor",
+   "opties": [
+    "Vor",
+    "Für",
+    "Seit"
+   ],
+   "waarom": "Geleden → vor + Dativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Wagen steht ___ der Tür.",
+   "antwoord": "vor",
+   "opties": [
+    "vor",
+    "für",
+    "bei"
+   ],
+   "waarom": "Plaats → vor."
+  }
+ ]
+}

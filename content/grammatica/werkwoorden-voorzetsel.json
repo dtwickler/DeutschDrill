@@ -1,0 +1,116 @@
+{
+  "onderwerp": "Werkwoorden met vast voorzetsel (brief)",
+  "uitleg": "Veel werkwoorden in een formele brief hebben een vast voorzetsel. Leer ze als één geheel:\nsich interessieren für + Akk. (geïnteresseerd zijn in)\nsich beschweren über + Akk. (klagen over)\nsich freuen auf + Akk. (uitkijken naar) / sich freuen über + Akk. (blij zijn met)\nsich bewerben um + Akk. (solliciteren naar)\nsich erkundigen nach + Dat. (informeren naar)\nbitten um + Akk. (vragen om)\nsich bedanken für + Akk. (bedanken voor)\nwarten auf + Akk. (wachten op)\nteilnehmen an + Dat. (deelnemen aan)",
+  "vragen": [
+    {
+      "type": "gat",
+      "zin": "Ich interessiere mich ___ den Sommerkurs.",
+      "antwoord": "für",
+      "opties": [
+        "für",
+        "an",
+        "über"
+      ],
+      "waarom": "sich interessieren für + Akkusativ."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich möchte mich ___ den Lärm beschweren.",
+      "antwoord": "über",
+      "opties": [
+        "über",
+        "für",
+        "von"
+      ],
+      "waarom": "sich beschweren über + Akkusativ."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich freue mich ___ Ihre Antwort.",
+      "antwoord": "auf",
+      "opties": [
+        "auf",
+        "über",
+        "an"
+      ],
+      "waarom": "sich freuen auf = uitkijken naar (toekomst)."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich freue mich sehr ___ Ihr Angebot.",
+      "antwoord": "über",
+      "opties": [
+        "über",
+        "auf",
+        "für"
+      ],
+      "waarom": "sich freuen über = blij zijn met iets wat er al is."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich möchte mich ___ die Stelle bewerben.",
+      "antwoord": "um",
+      "opties": [
+        "um",
+        "für",
+        "auf"
+      ],
+      "waarom": "sich bewerben um + Akkusativ."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich möchte mich ___ den Preisen erkundigen.",
+      "antwoord": "nach",
+      "opties": [
+        "nach",
+        "über",
+        "von"
+      ],
+      "waarom": "sich erkundigen nach + Dativ (den Preisen = Dativ meervoud)."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich bitte Sie ___ eine schnelle Antwort.",
+      "antwoord": "um",
+      "opties": [
+        "um",
+        "für",
+        "nach"
+      ],
+      "waarom": "bitten um + Akkusativ."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich bedanke mich ___ Ihre Hilfe.",
+      "antwoord": "für",
+      "opties": [
+        "für",
+        "um",
+        "über"
+      ],
+      "waarom": "sich bedanken für + Akkusativ."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich warte schon zwei Wochen ___ meine Bestellung.",
+      "antwoord": "auf",
+      "opties": [
+        "auf",
+        "für",
+        "nach"
+      ],
+      "waarom": "warten auf + Akkusativ."
+    },
+    {
+      "type": "gat",
+      "zin": "Ich möchte gern ___ dem Kurs teilnehmen.",
+      "antwoord": "an",
+      "opties": [
+        "an",
+        "in",
+        "bei"
+      ],
+      "waarom": "teilnehmen an + Dativ."
+    }
+  ]
+}

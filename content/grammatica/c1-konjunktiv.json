@@ -1,0 +1,211 @@
+{
+ "onderwerp": "C1.5 Konjunktiv (zou-vorm)",
+ "uitleg": "Konjunktiv I: voor de indirecte rede. Stam + -e, -est, -e, -en, -et, -en (Der Minister sagte, dass er es nicht so gemeint habe). sein: ich sei, du seiest, er sei, wir seien, ihr seiet, sie seien.\n\nKonjunktiv II gebruik je:\n• als iets geen feit is maar een mogelijkheid (Ich führe nach Paris, wenn ich Geld hätte.)\n• als je heel beleefd wilt zijn (Ich möchte heute früher nach Hause gehen.)\n\nZwak werkwoord: würde + infinitief (Ich würde mir gern einen neuen Pullover kaufen).\nSterk werkwoord: o.v.t. + umlaut + -e, -est, -e, -en, -et, -en (ich führe, du gingest, er täte). Steeds vaker ook hier: würde + infinitief (Ich würde gern nach Paris fahren).\nNiet met würde, maar met eigen vorm: zie het schema. sollen en wollen krijgen geen umlaut.",
+ "tabellen": [
+  {
+   "titel": "O.v.t. → Konjunktiv II",
+   "kop": [
+    "",
+    "o.v.t.",
+    "Konjunktiv II"
+   ],
+   "rijen": [
+    [
+     "sein",
+     "war",
+     "wäre"
+    ],
+    [
+     "haben",
+     "hatte",
+     "hätte"
+    ],
+    [
+     "werden",
+     "wurde",
+     "würde"
+    ],
+    [
+     "können",
+     "konnte",
+     "könnte"
+    ],
+    [
+     "mögen",
+     "mochte",
+     "möchte"
+    ],
+    [
+     "sollen",
+     "sollte",
+     "sollte"
+    ],
+    [
+     "müssen",
+     "musste",
+     "müsste"
+    ],
+    [
+     "dürfen",
+     "durfte",
+     "dürfte"
+    ],
+    [
+     "wollen",
+     "wollte",
+     "wollte"
+    ],
+    [
+     "wissen",
+     "wusste",
+     "wüsste"
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Wenn ich Geld ___, führe ich nach Paris.",
+   "antwoord": "hätte",
+   "opties": [
+    "hätte",
+    "hatte",
+    "habe"
+   ],
+   "waarom": "Geen feit → Konjunktiv II: hätte (met umlaut)."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Minister sagte, er ___ krank. (sein, indirecte rede)",
+   "antwoord": "sei",
+   "opties": [
+    "sei",
+    "ist",
+    "wäre"
+   ],
+   "waarom": "Indirecte rede → Konjunktiv I: er sei."
+  },
+  {
+   "type": "gat",
+   "zin": "Sie sagt, sie ___ keine Zeit. (haben, indirecte rede)",
+   "antwoord": "habe",
+   "opties": [
+    "habe",
+    "hat",
+    "hatte"
+   ],
+   "waarom": "Konjunktiv I: stam + -e: sie habe."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ mir gern einen neuen Pullover kaufen.",
+   "antwoord": "würde",
+   "opties": [
+    "würde",
+    "wurde",
+    "werde"
+   ],
+   "waarom": "Zwak werkwoord: würde + infinitief."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Sie mir bitte helfen? (können, beleefd)",
+   "antwoord": "Könnten",
+   "opties": [
+    "Könnten",
+    "Konnten",
+    "Können"
+   ],
+   "waarom": "Beleefd: Konjunktiv II könnten."
+  },
+  {
+   "type": "gat",
+   "zin": "Wenn ich du ___, würde ich mehr lernen.",
+   "antwoord": "wäre",
+   "opties": [
+    "wäre",
+    "war",
+    "bin"
+   ],
+   "waarom": "sein → wäre."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ eigentlich mehr schlafen. (sollen)",
+   "antwoord": "solltest",
+   "opties": [
+    "solltest",
+    "söllest",
+    "sollst"
+   ],
+   "waarom": "sollen krijgt geen umlaut: du solltest."
+  },
+  {
+   "type": "gat",
+   "zin": "Wenn ich das ___, würde ich es dir sagen. (wissen)",
+   "antwoord": "wüsste",
+   "opties": [
+    "wüsste",
+    "wusste",
+    "weiß"
+   ],
+   "waarom": "wissen → wüsste."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir ___ früher kommen, wenn wir ein Auto hätten. (können)",
+   "antwoord": "könnten",
+   "opties": [
+    "könnten",
+    "konnten",
+    "können"
+   ],
+   "waarom": "Mogelijkheid → könnten."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ heute früher nach Hause gehen. (beleefd)",
+   "antwoord": "möchte",
+   "opties": [
+    "möchte",
+    "mochte",
+    "will"
+   ],
+   "waarom": "Beleefd → möchte."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ gern nach Paris. (fahren, sterk, Konjunktiv II)",
+   "antwoord": "führe",
+   "opties": [
+    "führe",
+    "fuhr",
+    "fahre"
+   ],
+   "waarom": "fuhr + umlaut + e: ich führe."
+  },
+  {
+   "type": "gat",
+   "zin": "Es ___ schön, wenn du kommen könntest.",
+   "antwoord": "wäre",
+   "opties": [
+    "wäre",
+    "war",
+    "würde"
+   ],
+   "waarom": "Wens/mogelijkheid → wäre."
+  },
+  {
+   "type": "gat",
+   "zin": "Das ___ ich nicht tun. (dürfen, Konjunktiv II)",
+   "antwoord": "dürfte",
+   "opties": [
+    "dürfte",
+    "durfte",
+    "darf"
+   ],
+   "waarom": "dürfen → dürfte."
+  }
+ ]
+}

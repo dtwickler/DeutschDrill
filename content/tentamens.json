@@ -1,0 +1,71 @@
+{
+  "titels": {
+    "voorbeeld-umwelt": "Thema Umwelt (voorbeeld)",
+    "voorbeeld-medien": "Thema Medien & Gesellschaft (voorbeeld)",
+    "examenwoorden": "Signaalwoorden",
+    "uitdrukkingen": "Vaste uitdrukkingen",
+    "brief-zinnen": "Standaardzinnen (uit de examenbundel)",
+    "brief-algemeen": "Briefwoorden: algemeen",
+    "brief-reserveren": "Briefwoorden: reserveren",
+    "brief-klacht": "Briefwoorden: klacht",
+    "brief-sollicitatie": "Briefwoorden: sollicitatie & cv"
+  },
+  "tentamens": [
+    {
+      "id": "T1",
+      "naam": "Tentamen 1 – formele brief",
+      "datum": "2026-11-19",
+      "woorden": [
+        "brief-algemeen",
+        "brief-reserveren",
+        "brief-klacht",
+        "brief-sollicitatie",
+        "examenwoorden"
+      ],
+      "grammatica": [
+        "c1-zwakke-werkwoorden",
+        "c1-sterke-werkwoorden",
+        "c1-sein-haben-werden",
+        "c1-modalen",
+        "c1-perfekt",
+        "c1-gebiedende-wijs",
+        "c1-konjunktiv",
+        "c2-naamvallen",
+        "c2-voorzetsels",
+        "c2-wechselpraepositionen",
+        "werkwoorden-voorzetsel",
+        "c2-adjectief",
+        "c3-vergelijking",
+        "c4-zelfstandige-naamwoorden",
+        "c5-voornaamwoorden",
+        "c6-naar-bij-voor",
+        "c7-woordvolgorde",
+        "c8-infinitief"
+      ],
+      "idiomen": [
+        "brief-zinnen"
+      ],
+      "schrijven": [
+        "formele-brief"
+      ],
+      "lezen": []
+    },
+    {
+      "id": "T2",
+      "naam": "Oefenstof (voorbeeld)",
+      "datum": "",
+      "woorden": [
+        "voorbeeld-umwelt",
+        "voorbeeld-medien"
+      ],
+      "grammatica": [],
+      "idiomen": [
+        "uitdrukkingen"
+      ],
+      "lezen": [
+        "tekst-01",
+        "tekst-02"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+ "onderwerp": "C1.3 sein, haben en werden",
+ "uitleg": "Drie onregelmatige werkwoorden die je heel vaak nodig hebt. werden betekent 'worden' en wordt ook gebruikt voor de toekomende tijd (Ich werde kommen = ik zal komen) en de zou-vorm (Ich würde kommen).",
+ "tabellen": [
+  {
+   "titel": "Vervoeging",
+   "kop": [
+    "",
+    "sein",
+    "o.v.t.",
+    "haben",
+    "o.v.t.",
+    "werden",
+    "o.v.t.",
+    "zou-vorm"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "bin",
+     "war",
+     "habe",
+     "hatte",
+     "werde",
+     "wurde",
+     "würde"
+    ],
+    [
+     "du",
+     "bist",
+     "warst",
+     "hast",
+     "hattest",
+     "wirst",
+     "wurdest",
+     "würdest"
+    ],
+    [
+     "er/sie/es",
+     "ist",
+     "war",
+     "hat",
+     "hatte",
+     "wird",
+     "wurde",
+     "würde"
+    ],
+    [
+     "wir",
+     "sind",
+     "waren",
+     "haben",
+     "hatten",
+     "werden",
+     "wurden",
+     "würden"
+    ],
+    [
+     "ihr",
+     "seid",
+     "wart",
+     "habt",
+     "hattet",
+     "werdet",
+     "wurdet",
+     "würdet"
+    ],
+    [
+     "sie/Sie",
+     "sind",
+     "waren",
+     "haben",
+     "hatten",
+     "werden",
+     "wurden",
+     "würden"
+    ],
+    [
+     "volt. deelw.",
+     "gewesen",
+     "",
+     "gehabt",
+     "",
+     "geworden",
+     "",
+     ""
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Du ___ mein bester Freund.",
+   "antwoord": "bist",
+   "opties": [
+    "bist",
+    "bis",
+    "seid"
+   ],
+   "waarom": "sein: du bist."
+  },
+  {
+   "type": "gat",
+   "zin": "Ihr ___ sehr nett.",
+   "antwoord": "seid",
+   "opties": [
+    "seid",
+    "seit",
+    "sind"
+   ],
+   "waarom": "sein: ihr seid (seit = sinds)."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Sie noch Zimmer frei?",
+   "antwoord": "Haben",
+   "opties": [
+    "Haben",
+    "Hat",
+    "Habt"
+   ],
+   "waarom": "Sie-vorm: Haben Sie …?"
+  },
+  {
+   "type": "gat",
+   "zin": "Ihr ___ Glück gehabt.",
+   "antwoord": "habt",
+   "opties": [
+    "habt",
+    "hat",
+    "habet"
+   ],
+   "waarom": "haben: ihr habt."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir ___ gestern im Kino. (o.v.t.)",
+   "antwoord": "waren",
+   "opties": [
+    "waren",
+    "wart",
+    "sind"
+   ],
+   "waarom": "sein o.v.t.: wir waren."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ gestern krank. (o.v.t.)",
+   "antwoord": "warst",
+   "opties": [
+    "warst",
+    "wart",
+    "warest"
+   ],
+   "waarom": "sein o.v.t.: du warst."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ keine Lust. (o.v.t.)",
+   "antwoord": "hatte",
+   "opties": [
+    "hatte",
+    "hätte",
+    "habte"
+   ],
+   "waarom": "haben o.v.t.: er hatte (hätte = zou hebben)."
+  },
+  {
+   "type": "gat",
+   "zin": "Es ___ schon dunkel. (werden, o.t.t.)",
+   "antwoord": "wird",
+   "opties": [
+    "wird",
+    "werdt",
+    "wirt"
+   ],
+   "waarom": "werden: es wird."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ bald 17. (werden, o.t.t.)",
+   "antwoord": "wirst",
+   "opties": [
+    "wirst",
+    "werdest",
+    "wirdst"
+   ],
+   "waarom": "werden: du wirst."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ später Arzt. (werden, o.v.t.)",
+   "antwoord": "wurde",
+   "opties": [
+    "wurde",
+    "würde",
+    "werdete"
+   ],
+   "waarom": "werden o.v.t.: er wurde (würde = zou)."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ gern mitkommen. (zou-vorm)",
+   "antwoord": "würde",
+   "opties": [
+    "würde",
+    "wurde",
+    "werde"
+   ],
+   "waarom": "zou-vorm: ich würde."
+  },
+  {
+   "type": "gat",
+   "zin": "Wo bist du gestern ___? (sein)",
+   "antwoord": "gewesen",
+   "opties": [
+    "gewesen",
+    "geweest",
+    "gesein"
+   ],
+   "waarom": "sein – war – gewesen."
+  },
+  {
+   "type": "gat",
+   "zin": "Es ist kalt ___. (werden)",
+   "antwoord": "geworden",
+   "opties": [
+    "geworden",
+    "gewordet",
+    "gewerden"
+   ],
+   "waarom": "werden – wurde – geworden."
+  }
+ ]
+}

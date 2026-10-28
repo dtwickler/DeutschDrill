@@ -1,0 +1,160 @@
+{
+ "onderwerp": "C2 Voorzetsels met vaste naamval",
+ "uitleg": "Altijd 2e naamval (Genitiv): trotz, während, wegen, statt, außerhalb, innerhalb.\nAltijd 3e naamval (Dativ): mit, nach, bei, seit, von, außer, aus, gegenüber, zu.\nAltijd 4e naamval (Akkusativ): durch, für, ohne, um, bis, gegen, entlang.\n\nDativ: der → dem, die → der, das → dem, meervoud → den (+n).\nAkkusativ: alleen mannelijk verandert (der → den, ein → einen).",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Ich fahre mit ___ Fahrrad zur Schule.",
+   "antwoord": "dem",
+   "opties": [
+    "dem",
+    "das",
+    "den"
+   ],
+   "waarom": "mit + Dativ: das Fahrrad → dem Fahrrad."
+  },
+  {
+   "type": "gat",
+   "zin": "Das Geschenk ist für ___ Vater.",
+   "antwoord": "meinen",
+   "opties": [
+    "meinen",
+    "meinem",
+    "mein"
+   ],
+   "waarom": "für + Akkusativ: meinen Vater."
+  },
+  {
+   "type": "gat",
+   "zin": "Sie wohnt seit ___ Jahr in Berlin.",
+   "antwoord": "einem",
+   "opties": [
+    "einem",
+    "ein",
+    "einen"
+   ],
+   "waarom": "seit + Dativ: einem Jahr."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir gehen durch ___ Park.",
+   "antwoord": "den",
+   "opties": [
+    "den",
+    "dem",
+    "der"
+   ],
+   "waarom": "durch + Akkusativ: den Park."
+  },
+  {
+   "type": "gat",
+   "zin": "Nach ___ Schule gehe ich nach Hause.",
+   "antwoord": "der",
+   "opties": [
+    "der",
+    "die",
+    "den"
+   ],
+   "waarom": "nach + Dativ: der Schule."
+  },
+  {
+   "type": "gat",
+   "zin": "Ohne ___ Handy gehe ich nicht aus dem Haus.",
+   "antwoord": "mein",
+   "opties": [
+    "mein",
+    "meinem",
+    "meinen"
+   ],
+   "waarom": "ohne + Akkusativ; das Handy blijft mein Handy."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich wohne bei ___ Großeltern.",
+   "antwoord": "meinen",
+   "opties": [
+    "meinen",
+    "meine",
+    "meiner"
+   ],
+   "waarom": "bei + Dativ meervoud: meinen."
+  },
+  {
+   "type": "gat",
+   "zin": "Er spielt gegen ___ besten Freund.",
+   "antwoord": "seinen",
+   "opties": [
+    "seinen",
+    "seinem",
+    "sein"
+   ],
+   "waarom": "gegen + Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Das Hotel liegt gegenüber ___ Bahnhof.",
+   "antwoord": "dem",
+   "opties": [
+    "dem",
+    "den",
+    "des"
+   ],
+   "waarom": "gegenüber + Dativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Statt ___ Busses nehmen wir ein Taxi.",
+   "antwoord": "des",
+   "opties": [
+    "des",
+    "dem",
+    "den"
+   ],
+   "waarom": "statt + Genitiv."
+  },
+  {
+   "type": "gat",
+   "zin": "Innerhalb ___ Woche bekommen Sie Ihr Geld zurück.",
+   "antwoord": "einer",
+   "opties": [
+    "einer",
+    "eine",
+    "einen"
+   ],
+   "waarom": "innerhalb + Genitiv: einer Woche."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir laufen den Fluss ___.",
+   "antwoord": "entlang",
+   "opties": [
+    "entlang",
+    "durch",
+    "gegen"
+   ],
+   "waarom": "entlang + Akkusativ, staat meestal achter het woord."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Zug fährt bis ___ Ende der Strecke.",
+   "antwoord": "zum",
+   "opties": [
+    "zum",
+    "zu",
+    "zur"
+   ],
+   "waarom": "bis + Akkusativ, vaak gecombineerd: bis zum Ende."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich komme aus ___ Niederlanden.",
+   "antwoord": "den",
+   "opties": [
+    "den",
+    "die",
+    "der"
+   ],
+   "waarom": "aus + Dativ meervoud: aus den Niederlanden."
+  }
+ ]
+}

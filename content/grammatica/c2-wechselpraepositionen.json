@@ -1,0 +1,149 @@
+{
+ "onderwerp": "C2 Voorzetsels met 3e óf 4e naamval",
+ "uitleg": "an, auf, hinter, neben, in, über, unter, vor, zwischen.\nKijk naar de betekenis van het werkwoord met het voorzetsel:\n• ergens komen (richting) → 4e naamval: Der Ball rollt unter den Tisch.\n• ergens zijn (plaats) → 3e naamval: Der Ball liegt unter dem Tisch.\n• geen van beide → 3e naamval, behalve auf en über: die krijgen de 4e naamval.\n  Ich habe Angst vor dem Hund. / Er berichtete über den Unfall. / Ich warte auf den Bus.\nTip: liegen/stehen/sitzen/hängen = zijn → Dativ. legen/stellen/setzen/hängen (ophangen) = komen → Akkusativ.",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Ich lege das Buch auf ___ Tisch.",
+   "antwoord": "den",
+   "opties": [
+    "den",
+    "dem",
+    "der"
+   ],
+   "waarom": "Wohin? → Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Das Buch liegt auf ___ Tisch.",
+   "antwoord": "dem",
+   "opties": [
+    "den",
+    "dem",
+    "der"
+   ],
+   "waarom": "Wo? → Dativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Ball rollt unter ___ Tisch.",
+   "antwoord": "den",
+   "opties": [
+    "den",
+    "dem",
+    "der"
+   ],
+   "waarom": "rollen unter = ergens komen → Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Bleistift liegt unter ___ Stuhl.",
+   "antwoord": "dem",
+   "opties": [
+    "den",
+    "dem",
+    "der"
+   ],
+   "waarom": "liegen unter = ergens zijn → Dativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir gehen heute Abend in ___ Kino.",
+   "antwoord": "das",
+   "opties": [
+    "das",
+    "dem",
+    "den"
+   ],
+   "waarom": "Wohin? → Akkusativ (ins Kino)."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir waren gestern in ___ Kino.",
+   "antwoord": "dem",
+   "opties": [
+    "das",
+    "dem",
+    "den"
+   ],
+   "waarom": "Wo? → Dativ (im Kino)."
+  },
+  {
+   "type": "gat",
+   "zin": "Sie hängt das Poster an ___ Wand.",
+   "antwoord": "die",
+   "opties": [
+    "die",
+    "der",
+    "den"
+   ],
+   "waarom": "Wohin? → Akkusativ: die Wand."
+  },
+  {
+   "type": "gat",
+   "zin": "Das Poster hängt an ___ Wand.",
+   "antwoord": "der",
+   "opties": [
+    "die",
+    "der",
+    "den"
+   ],
+   "waarom": "Wo? → Dativ: der Wand."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich setze mich vor ___ Fenster.",
+   "antwoord": "das",
+   "opties": [
+    "das",
+    "dem",
+    "den"
+   ],
+   "waarom": "sich setzen = ergens komen → Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich habe Angst vor ___ Hund.",
+   "antwoord": "dem",
+   "opties": [
+    "dem",
+    "den",
+    "der"
+   ],
+   "waarom": "Geen zijn/komen → Dativ (vor)."
+  },
+  {
+   "type": "gat",
+   "zin": "Er berichtete über ___ Unfall.",
+   "antwoord": "den",
+   "opties": [
+    "den",
+    "dem",
+    "der"
+   ],
+   "waarom": "Geen zijn/komen, maar über → Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich warte schon lange auf ___ Antwort.",
+   "antwoord": "Ihre",
+   "opties": [
+    "Ihre",
+    "Ihrer",
+    "Ihren"
+   ],
+   "waarom": "Geen zijn/komen, maar auf → Akkusativ: Ihre Antwort."
+  },
+  {
+   "type": "gat",
+   "zin": "Zwischen ___ Häusern ist ein kleiner Garten.",
+   "antwoord": "den",
+   "opties": [
+    "den",
+    "die",
+    "der"
+   ],
+   "waarom": "Wo? → Dativ meervoud: den Häusern."
+  }
+ ]
+}

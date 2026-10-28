@@ -1,0 +1,158 @@
+{
+ "onderwerp": "C1 Gebiedende wijs",
+ "uitleg": "Drie vormen:\n• Enkelvoud (één persoon met du): maak je van de ich-vorm, de -e valt meestal weg (Trink nicht so viel!).\n  – Stam op -d/-t of atmen, rechnen: -e blijft (Rede nicht andauernd!).\n  – Sterk met e in de stam: e/i-Wechsel en geen -e (Hilf mir mal! Lies das!).\n  – Ook zonder -e: kommen en lassen (Komm mal her!).\n• Meervoud (meer personen met du): ihr-vorm zonder ihr (Geht endlich nach Hause, Kinder!).\n• Beleefdheidsvorm: Sie-vorm met Sie erachter (Machen Sie bitte die Tür zu, Herr Meier!).\nVaak voeg je bitte toe.",
+ "tabellen": [
+  {
+   "titel": "sein, haben, werden",
+   "kop": [
+    "",
+    "sein",
+    "haben",
+    "werden"
+   ],
+   "rijen": [
+    [
+     "enkelvoud",
+     "sei",
+     "habe",
+     "werde"
+    ],
+    [
+     "meervoud",
+     "seid",
+     "habt",
+     "werdet"
+    ],
+    [
+     "beleefdheidsvorm",
+     "seien Sie",
+     "haben Sie",
+     "werden Sie"
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "___ mir mal! (helfen, du)",
+   "antwoord": "Hilf",
+   "opties": [
+    "Hilf",
+    "Helf",
+    "Hilfe"
+   ],
+   "waarom": "e/i-Wechsel en geen -e: Hilf!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ mal her! (kommen, du)",
+   "antwoord": "Komm",
+   "opties": [
+    "Komm",
+    "Kommst",
+    "Kommt"
+   ],
+   "waarom": "kommen: Komm! (geen -e)."
+  },
+  {
+   "type": "gat",
+   "zin": "___ endlich nach Hause, Kinder! (gehen)",
+   "antwoord": "Geht",
+   "opties": [
+    "Geht",
+    "Gehen",
+    "Geh"
+   ],
+   "waarom": "Meervoud = ihr-vorm zonder ihr: Geht!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ Sie bitte die Tür zu, Herr Meier! (machen)",
+   "antwoord": "Machen",
+   "opties": [
+    "Machen",
+    "Macht",
+    "Mach"
+   ],
+   "waarom": "Beleefdheidsvorm: Machen Sie …!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ bitte nicht so gemein! (sein, du)",
+   "antwoord": "Sei",
+   "opties": [
+    "Sei",
+    "Bist",
+    "Seid"
+   ],
+   "waarom": "sein, enkelvoud: Sei!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ Geduld, Kinder! (haben)",
+   "antwoord": "Habt",
+   "opties": [
+    "Habt",
+    "Haben",
+    "Hab"
+   ],
+   "waarom": "haben, meervoud: Habt!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ Sie nicht böse, Frau Müller! (werden)",
+   "antwoord": "Werden",
+   "opties": [
+    "Werden",
+    "Werdet",
+    "Werde"
+   ],
+   "waarom": "werden, beleefdheidsvorm: Werden Sie!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ das Buch bis morgen! (lesen, du)",
+   "antwoord": "Lies",
+   "opties": [
+    "Lies",
+    "Les",
+    "Lese"
+   ],
+   "waarom": "Lange e → ie: Lies!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ nicht andauernd! (reden, du)",
+   "antwoord": "Rede",
+   "opties": [
+    "Rede",
+    "Red",
+    "Redet"
+   ],
+   "waarom": "Stam op -d: de -e blijft: Rede!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ Sie sich bitte, meine Damen und Herren! (beeilen)",
+   "antwoord": "Beeilen",
+   "opties": [
+    "Beeilen",
+    "Beeilt",
+    "Beeil"
+   ],
+   "waarom": "Beleefdheidsvorm: Beeilen Sie sich!"
+  },
+  {
+   "type": "gat",
+   "zin": "___ bitte jetzt ein Pferd! (zeichnen, du)",
+   "antwoord": "Zeichne",
+   "opties": [
+    "Zeichne",
+    "Zeichn",
+    "Zeichnet"
+   ],
+   "waarom": "zeichnen hoort bij de groep met extra e: Zeichne!"
+  }
+ ]
+}

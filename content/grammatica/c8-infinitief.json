@@ -1,0 +1,160 @@
+{
+ "onderwerp": "C8 Infinitief met andere (werk)woorden",
+ "uitleg": "Niet letterlijk vertalen!\n• blijven + infinitief: bleiben alleen bij echt op de plaats blijven (Er bleibt sitzen). Anders omschrijven: Zij blijft werken – Sie arbeitet weiter.\n• gaan + infinitief: gehen alleen bij echt ergens heen gaan (Wir gehen spazieren). Anders: Zij gaat een opleiding doen – Sie wird/will eine Ausbildung machen. Het programma gaat beginnen – Das Programm fängt jetzt an. Het gaat zo regenen – Es gibt gleich Regen.\n• gaan zitten = sich setzen, gaan liggen = sich legen, gaan staan = sich stellen.\n• komen + infinitief: Ik kom je morgen ophalen – Ich hole dich morgen ab. Ik kom je even iets vertellen – Ich will/möchte dir schnell etwas erzählen.\n• staan/liggen/zitten te: omschrijven of und gebruiken: Er guckt die ganze Zeit nach oben. Er liegt im Bett und träumt. Sie redet mit ihrem Mann.\n• om te: kun je 'om' in het Nederlands weglaten, dan geen um: Es ist mir gelungen, die Prüfung zu bestehen. Anders um … zu: Er rief an, um mir etwas Wichtiges zu erzählen.\n• voorzetsel + te: alleen na ohne, um, statt. Anders omschrijven: Wenn du das machst, verlierst du alles. Nachdem er gegessen hatte, ging er nach oben.",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Zij blijft werken. – Sie arbeitet ___.",
+   "antwoord": "weiter",
+   "opties": [
+    "weiter",
+    "bleiben",
+    "immer"
+   ],
+   "waarom": "Niet letterlijk: weiterarbeiten."
+  },
+  {
+   "type": "gat",
+   "zin": "Hij blijft zitten. – Er ___ sitzen.",
+   "antwoord": "bleibt",
+   "opties": [
+    "bleibt",
+    "sitzt",
+    "geht"
+   ],
+   "waarom": "Echt op de plaats blijven → bleiben mag."
+  },
+  {
+   "type": "gat",
+   "zin": "Wij gaan wandelen. – Wir ___ spazieren.",
+   "antwoord": "gehen",
+   "opties": [
+    "gehen",
+    "werden",
+    "fahren"
+   ],
+   "waarom": "Echt ergens heen gaan → gehen mag."
+  },
+  {
+   "type": "gat",
+   "zin": "Het programma gaat beginnen. – Das Programm ___ jetzt an.",
+   "antwoord": "fängt",
+   "opties": [
+    "fängt",
+    "geht",
+    "wird"
+   ],
+   "waarom": "Niet gehen: Das Programm fängt jetzt an."
+  },
+  {
+   "type": "gat",
+   "zin": "Het gaat zo regenen. – Es ___ gleich Regen.",
+   "antwoord": "gibt",
+   "opties": [
+    "gibt",
+    "geht",
+    "kommt"
+   ],
+   "waarom": "Vaste vorm: Es gibt gleich Regen."
+  },
+  {
+   "type": "gat",
+   "zin": "Zij gaat een opleiding in Duitsland doen. – Sie ___ eine Ausbildung in Deutschland machen.",
+   "antwoord": "will",
+   "opties": [
+    "will",
+    "geht",
+    "bleibt"
+   ],
+   "waarom": "Niet gehen: wird of will."
+  },
+  {
+   "type": "gat",
+   "zin": "Ik ga zitten. – Ich ___ mich.",
+   "antwoord": "setze",
+   "opties": [
+    "setze",
+    "sitze",
+    "gehe"
+   ],
+   "waarom": "gaan zitten = sich setzen."
+  },
+  {
+   "type": "gat",
+   "zin": "Hij gaat op bed liggen. – Er ___ sich aufs Bett.",
+   "antwoord": "legt",
+   "opties": [
+    "legt",
+    "liegt",
+    "geht"
+   ],
+   "waarom": "gaan liggen = sich legen."
+  },
+  {
+   "type": "gat",
+   "zin": "Ik kom je morgen ophalen. – Ich ___ dich morgen ab.",
+   "antwoord": "hole",
+   "opties": [
+    "hole",
+    "komme",
+    "gehe"
+   ],
+   "waarom": "komen + infinitief niet letterlijk: abholen."
+  },
+  {
+   "type": "gat",
+   "zin": "Hij ligt in zijn bed te dromen. – Er liegt im Bett ___ träumt.",
+   "antwoord": "und",
+   "opties": [
+    "und",
+    "zu",
+    "um"
+   ],
+   "waarom": "liggen te … → und."
+  },
+  {
+   "type": "gat",
+   "zin": "Het is mij gelukt het examen te halen. – Es ist mir gelungen, die Prüfung ___ bestehen.",
+   "antwoord": "zu",
+   "opties": [
+    "zu",
+    "um zu",
+    "um"
+   ],
+   "waarom": "'om' kan weg → geen um, alleen zu."
+  },
+  {
+   "type": "gat",
+   "zin": "Hij belde om mij iets belangrijks te vertellen. – Er rief an, ___ mir etwas Wichtiges zu erzählen.",
+   "antwoord": "um",
+   "opties": [
+    "um",
+    "zu",
+    "für"
+   ],
+   "waarom": "Doel → um … zu."
+  },
+  {
+   "type": "gat",
+   "zin": "Zonder wat te zeggen ging hij weg. – ___ etwas zu sagen, ging er weg.",
+   "antwoord": "Ohne",
+   "opties": [
+    "Ohne",
+    "Statt",
+    "Um"
+   ],
+   "waarom": "ohne … zu."
+  },
+  {
+   "type": "gat",
+   "zin": "Na gegeten te hebben, ging hij naar boven. – ___ er gegessen hatte, ging er nach oben.",
+   "antwoord": "Nachdem",
+   "opties": [
+    "Nachdem",
+    "Nach",
+    "Ohne"
+   ],
+   "waarom": "Na een ander voorzetsel geen zu: omschrijven met nachdem."
+  }
+ ]
+}

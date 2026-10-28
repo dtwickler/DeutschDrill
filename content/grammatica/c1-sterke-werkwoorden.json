@@ -1,0 +1,263 @@
+{
+ "onderwerp": "C1.2 Sterke werkwoorden",
+ "uitleg": "Sterke werkwoorden veranderen van klank in de verleden tijd en/of het voltooid deelwoord. Het voltooid deelwoord eindigt op -en: gehen – ging – gegangen. Leer altijd de drie vormen.\n\nO.t.t. (zelfde uitgangen als zwakke werkwoorden), maar:\n• a in de stam → umlaut bij du en er: fahren → du fährst, er fährt (ook laufen → läuft, stoßen → stößt).\n• e in de stam → e/i-Wechsel bij du en er: lange e wordt ie (sehen → sieht), korte e wordt i (helfen → hilft).\n• Lange e maar korte i: nehmen (nimmt), geben (gibt), treten (tritt), werden (wird).\n• Geen e/i-Wechsel: stehen, gehen, genesen, heben en afleidingen (verstehen → versteht).\n\nO.v.t.: ich sang, du sangst, er sang, wir sangen, ihr sangt, sie sangen.\n• Stam op -d/-t: du bot(e)st, ihr botet.\n• Stam op sisklank: du aßt.",
+ "tabellen": [
+  {
+   "titel": "O.t.t.",
+   "kop": [
+    "",
+    "singen",
+    "fahren",
+    "sehen",
+    "helfen"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "singe",
+     "fahre",
+     "sehe",
+     "helfe"
+    ],
+    [
+     "du",
+     "singst",
+     "fährst",
+     "siehst",
+     "hilfst"
+    ],
+    [
+     "er/sie/es",
+     "singt",
+     "fährt",
+     "sieht",
+     "hilft"
+    ],
+    [
+     "wir",
+     "singen",
+     "fahren",
+     "sehen",
+     "helfen"
+    ],
+    [
+     "ihr",
+     "singt",
+     "fahrt",
+     "seht",
+     "helft"
+    ],
+    [
+     "sie/Sie",
+     "singen",
+     "fahren",
+     "sehen",
+     "helfen"
+    ]
+   ]
+  },
+  {
+   "titel": "O.v.t.",
+   "kop": [
+    "",
+    "singen",
+    "bieten",
+    "essen"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "sang",
+     "bot",
+     "aß"
+    ],
+    [
+     "du",
+     "sangst",
+     "bot(e)st",
+     "aßt"
+    ],
+    [
+     "er/sie/es",
+     "sang",
+     "bot",
+     "aß"
+    ],
+    [
+     "wir",
+     "sangen",
+     "boten",
+     "aßen"
+    ],
+    [
+     "ihr",
+     "sangt",
+     "botet",
+     "aßt"
+    ],
+    [
+     "sie/Sie",
+     "sangen",
+     "boten",
+     "aßen"
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Er ___ jeden Tag mit dem Rad zur Schule. (fahren)",
+   "antwoord": "fährt",
+   "opties": [
+    "fährt",
+    "fahrt",
+    "fähret"
+   ],
+   "waarom": "a in de stam → umlaut bij er: er fährt."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ sehr schnell. (laufen)",
+   "antwoord": "läufst",
+   "opties": [
+    "läufst",
+    "laufst",
+    "läuft"
+   ],
+   "waarom": "laufen krijgt ook een umlaut: du läufst."
+  },
+  {
+   "type": "gat",
+   "zin": "___ du das Schild dort? (sehen)",
+   "antwoord": "Siehst",
+   "opties": [
+    "Siehst",
+    "Sehst",
+    "Sihst"
+   ],
+   "waarom": "Lange e → ie: du siehst."
+  },
+  {
+   "type": "gat",
+   "zin": "Sie ___ ihrer Mutter in der Küche. (helfen)",
+   "antwoord": "hilft",
+   "opties": [
+    "hilft",
+    "helft",
+    "hälft"
+   ],
+   "waarom": "Korte e → i: sie hilft."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ den Bus um acht Uhr. (nehmen)",
+   "antwoord": "nimmt",
+   "opties": [
+    "nimmt",
+    "nehmt",
+    "nimt"
+   ],
+   "waarom": "Uitzondering: lange e, maar korte i: er nimmt."
+  },
+  {
+   "type": "gat",
+   "zin": "Heute ___ es keinen Unterricht. (geben)",
+   "antwoord": "gibt",
+   "opties": [
+    "gibt",
+    "gebt",
+    "giebt"
+   ],
+   "waarom": "geben → es gibt (korte i)."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ die Frage nicht. (verstehen)",
+   "antwoord": "versteht",
+   "opties": [
+    "versteht",
+    "verstiht",
+    "verstieht"
+   ],
+   "waarom": "Geen e/i-Wechsel bij stehen en verstehen."
+  },
+  {
+   "type": "gat",
+   "zin": "Meinen Lebenslauf ___ Sie in der Anlage. (finden)",
+   "antwoord": "finden",
+   "opties": [
+    "finden",
+    "findet",
+    "fanden"
+   ],
+   "waarom": "Sie-vorm o.t.t. = infinitief: Sie finden."
+  },
+  {
+   "type": "gat",
+   "zin": "Gestern ___ wir im Chor. (singen, o.v.t.)",
+   "antwoord": "sangen",
+   "opties": [
+    "sangen",
+    "singten",
+    "sungen"
+   ],
+   "waarom": "singen – sang – gesungen: wir sangen."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ eine Pizza. (essen, o.v.t.)",
+   "antwoord": "aß",
+   "opties": [
+    "aß",
+    "esste",
+    "isste"
+   ],
+   "waarom": "essen – aß – gegessen."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ den ganzen Abend. (singen, o.v.t.)",
+   "antwoord": "sangst",
+   "opties": [
+    "sangst",
+    "sang",
+    "sungst"
+   ],
+   "waarom": "du → -st: du sangst."
+  },
+  {
+   "type": "gat",
+   "zin": "Das Hotel ___ uns ein besseres Zimmer an. (anbieten, o.v.t.)",
+   "antwoord": "bot",
+   "opties": [
+    "bot",
+    "bietete",
+    "botete"
+   ],
+   "waarom": "bieten – bot – geboten."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir ___ früh nach Hause. (gehen, o.v.t.)",
+   "antwoord": "gingen",
+   "opties": [
+    "gingen",
+    "gehten",
+    "gangen"
+   ],
+   "waarom": "gehen – ging – gegangen."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich habe das Buch schon ___. (lesen)",
+   "antwoord": "gelesen",
+   "opties": [
+    "gelesen",
+    "gelest",
+    "gelasen"
+   ],
+   "waarom": "Sterk voltooid deelwoord op -en: gelesen."
+  }
+ ]
+}

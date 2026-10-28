@@ -1,0 +1,171 @@
+{
+ "onderwerp": "C2.1 Gebruik van de naamvallen",
+ "uitleg": "1e naamval (Nominativ)\n• onderwerp: Der Vater hat drei Söhne.\n• naamwoordelijk deel: Mein Bruder ist ein guter Fußballspieler.\n\n2e naamval (Genitiv)\n• 'van'-bepaling: das Dach dieses Hauses\n• na trotz, während, wegen, statt, außerhalb, innerhalb: trotz des schlechten Wetters\n\n3e naamval (Dativ)\n• meewerkend voorwerp: Ich gebe meiner Mutter ein Buch.\n• na mit, nach, bei, seit, von, außer, aus, gegenüber, zu\n• na danken, folgen, begegnen, glauben, gratulieren, helfen, gefallen: Ich helfe meinem Bruder.\n\n4e naamval (Akkusativ)\n• lijdend voorwerp: Ich habe den Brief gelesen.\n• na durch, für, ohne, um, bis, gegen, entlang\n• na bitten, fragen, kosten, es gibt: Ich habe dich schon zweimal gefragt.\n• tijdsbepaling zonder voorzetsel: Diesen Sommer fahren wir in die Schweiz.\n\nZelfstandig naamwoord:\n• 2e naamval mannelijk/onzijdig: -es bij één lettergreep (des Mannes), anders -s (des Mädchens).\n• 3e naamval meervoud: -n (den Kindern), niet als het meervoud al op -n of -s eindigt.",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Trotz ___ schlechten Wetters gehen wir wandern.",
+   "antwoord": "des",
+   "opties": [
+    "des",
+    "dem",
+    "den"
+   ],
+   "waarom": "trotz + Genitiv: des schlechten Wetters."
+  },
+  {
+   "type": "gat",
+   "zin": "Wegen ___ Regens fällt das Spiel aus.",
+   "antwoord": "des",
+   "opties": [
+    "des",
+    "dem",
+    "den"
+   ],
+   "waarom": "wegen + Genitiv."
+  },
+  {
+   "type": "gat",
+   "zin": "Während ___ Ferien arbeite ich im Hotel.",
+   "antwoord": "der",
+   "opties": [
+    "der",
+    "den",
+    "die"
+   ],
+   "waarom": "während + Genitiv; die Ferien (mv) → der Ferien."
+  },
+  {
+   "type": "gat",
+   "zin": "Das Dach ___ Hauses ist kaputt.",
+   "antwoord": "dieses",
+   "opties": [
+    "dieses",
+    "diesem",
+    "dieser"
+   ],
+   "waarom": "'van dit huis' → Genitiv: dieses Hauses."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich gebe ___ Mutter ein Buch.",
+   "antwoord": "meiner",
+   "opties": [
+    "meiner",
+    "meine",
+    "meinen"
+   ],
+   "waarom": "Meewerkend voorwerp → Dativ: meiner Mutter."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich helfe ___ Bruder bei seiner Arbeit.",
+   "antwoord": "meinem",
+   "opties": [
+    "meinem",
+    "meinen",
+    "mein"
+   ],
+   "waarom": "helfen + Dativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Das Hotel hat ___ sehr gut gefallen.",
+   "antwoord": "uns",
+   "opties": [
+    "uns",
+    "wir",
+    "unser"
+   ],
+   "waarom": "gefallen + Dativ: uns."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich gratuliere ___ zum Geburtstag.",
+   "antwoord": "dir",
+   "opties": [
+    "dir",
+    "dich",
+    "du"
+   ],
+   "waarom": "gratulieren + Dativ: dir."
+  },
+  {
+   "type": "gat",
+   "zin": "Außer ___ Lehrer war niemand da.",
+   "antwoord": "dem",
+   "opties": [
+    "dem",
+    "den",
+    "des"
+   ],
+   "waarom": "außer + Dativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich habe ___ schon zweimal gefragt.",
+   "antwoord": "dich",
+   "opties": [
+    "dich",
+    "dir",
+    "du"
+   ],
+   "waarom": "fragen + Akkusativ: dich."
+  },
+  {
+   "type": "gat",
+   "zin": "Es gibt ___ guten Supermarkt in der Nähe.",
+   "antwoord": "einen",
+   "opties": [
+    "einen",
+    "ein",
+    "einem"
+   ],
+   "waarom": "es gibt + Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Sommer fahren wir in die Schweiz.",
+   "antwoord": "Diesen",
+   "opties": [
+    "Diesen",
+    "Diesem",
+    "Dieser"
+   ],
+   "waarom": "Tijdsbepaling zonder voorzetsel → Akkusativ."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich spiele gern mit den ___. (Kind, meervoud)",
+   "antwoord": "Kindern",
+   "opties": [
+    "Kindern",
+    "Kinder",
+    "Kinden"
+   ],
+   "waarom": "3e naamval meervoud: -n."
+  },
+  {
+   "type": "gat",
+   "zin": "Mein Bruder ist ___ guter Koch.",
+   "antwoord": "ein",
+   "opties": [
+    "ein",
+    "einen",
+    "einem"
+   ],
+   "waarom": "Naamwoordelijk deel → Nominativ: ein guter Koch."
+  },
+  {
+   "type": "gat",
+   "zin": "Das ist das Auto des ___. (Mann)",
+   "antwoord": "Mannes",
+   "opties": [
+    "Mannes",
+    "Manns",
+    "Mann"
+   ],
+   "waarom": "2e naamval, één lettergreep → -es."
+  }
+ ]
+}

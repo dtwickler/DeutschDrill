@@ -1,0 +1,311 @@
+{
+ "onderwerp": "C1.4 können, mögen, sollen, müssen, dürfen, wollen, wissen",
+ "uitleg": "Onregelmatig: bij ich en er/sie/es geen uitgang (ich kann, er kann) en in het enkelvoud vaak een andere klinker.\n\nBetekenis:\n• können = kunnen\n• mögen = lusten, aardig vinden, houden van\n• sollen = moeten als opdracht van iemand anders ('Du sollst deine Hausaufgaben machen', sagte der Lehrer.)\n• müssen = moeten als iets onvermijdelijk is (Wenn du die Prüfung bestehen willst, musst du arbeiten.)\n• dürfen = mogen, toestemming hebben\n• wollen = per se willen. Beleefd iets vragen: ich möchte (Ich möchte Sie bitten, mir einen Prospekt zuzuschicken.)\n• wissen = weten",
+ "tabellen": [
+  {
+   "titel": "O.t.t.",
+   "kop": [
+    "",
+    "können",
+    "mögen",
+    "sollen",
+    "müssen",
+    "dürfen",
+    "wollen",
+    "wissen"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "kann",
+     "mag",
+     "soll",
+     "muss",
+     "darf",
+     "will",
+     "weiß"
+    ],
+    [
+     "du",
+     "kannst",
+     "magst",
+     "sollst",
+     "musst",
+     "darfst",
+     "willst",
+     "weißt"
+    ],
+    [
+     "er/sie/es",
+     "kann",
+     "mag",
+     "soll",
+     "muss",
+     "darf",
+     "will",
+     "weiß"
+    ],
+    [
+     "wir",
+     "können",
+     "mögen",
+     "sollen",
+     "müssen",
+     "dürfen",
+     "wollen",
+     "wissen"
+    ],
+    [
+     "ihr",
+     "könnt",
+     "mögt",
+     "sollt",
+     "müsst",
+     "dürft",
+     "wollt",
+     "wisst"
+    ],
+    [
+     "sie/Sie",
+     "können",
+     "mögen",
+     "sollen",
+     "müssen",
+     "dürfen",
+     "wollen",
+     "wissen"
+    ]
+   ]
+  },
+  {
+   "titel": "O.v.t.",
+   "kop": [
+    "",
+    "können",
+    "mögen",
+    "sollen",
+    "müssen",
+    "dürfen",
+    "wollen",
+    "wissen"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "konnte",
+     "mochte",
+     "sollte",
+     "musste",
+     "durfte",
+     "wollte",
+     "wusste"
+    ],
+    [
+     "du",
+     "konntest",
+     "mochtest",
+     "solltest",
+     "musstest",
+     "durftest",
+     "wolltest",
+     "wusstest"
+    ],
+    [
+     "er/sie/es",
+     "konnte",
+     "mochte",
+     "sollte",
+     "musste",
+     "durfte",
+     "wollte",
+     "wusste"
+    ],
+    [
+     "wir",
+     "konnten",
+     "mochten",
+     "sollten",
+     "mussten",
+     "durften",
+     "wollten",
+     "wussten"
+    ],
+    [
+     "ihr",
+     "konntet",
+     "mochtet",
+     "solltet",
+     "musstet",
+     "durftet",
+     "wolltet",
+     "wusstet"
+    ],
+    [
+     "sie/Sie",
+     "konnten",
+     "mochten",
+     "sollten",
+     "mussten",
+     "durften",
+     "wollten",
+     "wussten"
+    ],
+    [
+     "volt. deelw.",
+     "gekonnt",
+     "gemocht",
+     "",
+     "gemusst",
+     "gedurft",
+     "gewollt",
+     "gewusst"
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Ich ___ heute leider nicht kommen. (können)",
+   "antwoord": "kann",
+   "opties": [
+    "kann",
+    "kanne",
+    "könne"
+   ],
+   "waarom": "ich kann (geen uitgang)."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ morgen arbeiten. (müssen)",
+   "antwoord": "muss",
+   "opties": [
+    "muss",
+    "müsst",
+    "musst"
+   ],
+   "waarom": "er muss."
+  },
+  {
+   "type": "gat",
+   "zin": "___ du Schokolade? (mögen)",
+   "antwoord": "Magst",
+   "opties": [
+    "Magst",
+    "Mögst",
+    "Möchst"
+   ],
+   "waarom": "mögen: du magst."
+  },
+  {
+   "type": "gat",
+   "zin": "Ihr ___ hier nicht rauchen. (dürfen)",
+   "antwoord": "dürft",
+   "opties": [
+    "dürft",
+    "darft",
+    "dürfen"
+   ],
+   "waarom": "dürfen: ihr dürft."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ nicht, wo er wohnt. (wissen)",
+   "antwoord": "weiß",
+   "opties": [
+    "weiß",
+    "wisse",
+    "weißt"
+   ],
+   "waarom": "wissen: ich weiß."
+  },
+  {
+   "type": "gat",
+   "zin": "Das ___ du doch! (wissen)",
+   "antwoord": "weißt",
+   "opties": [
+    "weißt",
+    "wisst",
+    "weiß"
+   ],
+   "waarom": "wissen: du weißt."
+  },
+  {
+   "type": "gat",
+   "zin": "Gestern ___ ich nicht schlafen. (können, o.v.t.)",
+   "antwoord": "konnte",
+   "opties": [
+    "konnte",
+    "könnte",
+    "kannte"
+   ],
+   "waarom": "können o.v.t.: konnte (könnte = zou kunnen)."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir ___ lange auf den Bus warten. (müssen, o.v.t.)",
+   "antwoord": "mussten",
+   "opties": [
+    "mussten",
+    "müssten",
+    "musten"
+   ],
+   "waarom": "müssen o.v.t.: wir mussten."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ Sie bitten, mir einen Prospekt zu schicken. (beleefd)",
+   "antwoord": "möchte",
+   "opties": [
+    "möchte",
+    "will",
+    "mag"
+   ],
+   "waarom": "Beleefd vragen: ich möchte, niet ich will."
+  },
+  {
+   "type": "gat",
+   "zin": "'Du ___ deine Hausaufgaben machen', sagte der Lehrer.",
+   "antwoord": "sollst",
+   "opties": [
+    "sollst",
+    "musst",
+    "darfst"
+   ],
+   "waarom": "Opdracht van iemand anders → sollen."
+  },
+  {
+   "type": "gat",
+   "zin": "Wenn du die Prüfung bestehen willst, ___ du arbeiten.",
+   "antwoord": "musst",
+   "opties": [
+    "musst",
+    "sollst",
+    "darfst"
+   ],
+   "waarom": "Onvermijdelijk → müssen."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ morgen in die Disko gehen. (toestemming)",
+   "antwoord": "darfst",
+   "opties": [
+    "darfst",
+    "musst",
+    "willst"
+   ],
+   "waarom": "Toestemming → dürfen."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ unbedingt mitkommen. (wollen)",
+   "antwoord": "will",
+   "opties": [
+    "will",
+    "wollt",
+    "willt"
+   ],
+   "waarom": "wollen: er will."
+  }
+ ]
+}

@@ -1,0 +1,447 @@
+{
+ "onderwerp": "Formele brief",
+ "uitleg": "Indeling van een zakelijke brief (volgens de examenbundel):\n1. Naam en adres afzender, links boven. Postcode met land: NL – 2565 PH Den Haag\n2. Datum rechts boven, zonder plaatsnaam: 19.11.2026\n3. Naam en adres ontvanger: Herrn Paul Weber / Frau Erika Goll, straat, D – 50672 Köln (Oostenrijk: A –, Zwitserland: CH –). Aan een bedrijf ter attentie van iemand: z.Hd. Herrn Meier\n4. Onderwerp, zonder het woord 'Betreff:'. Bijvoorbeeld: Zimmerreservierung\n5. Aanhef + komma: Sehr geehrter Herr Weber, / Sehr geehrte Frau Goll, (geen voornaam). Naam onbekend: Sehr geehrte Damen und Herren,\n6. Boodschap: na de komma verder met een kleine letter. Altijd Sie, Ihnen, Ihr. Na elke alinea een witregel.\n7. Slotzin: Ich würde mich sehr über eine baldige Antwort freuen. / Vielen Dank im Voraus für Ihre Hilfe.\n8. Afsluiting zonder komma: Mit freundlichen Grüßen / Freundliche Grüße\n9. Je naam\n\nE-mail: zelfde regels, maar bovenaan An: en Betreff: (hier wél 'Betreff:'). Geen handtekening, alleen je naam.\nSollicitatie: onderwerp 'Bewerbung als …', noem waar je de advertentie zag, vertel over opleiding, eigenschappen, beschikbaarheid, ervaring en motivatie, en verwijs naar je Lebenslauf in de Anlage.\n\nControleer aan het eind: goede indeling? goede formules? overal Sie? goede woordvolgorde? werkwoordsvormen en uitgangen van bijvoeglijke naamwoorden? hoofdletters en umlauts? het vereiste aantal woorden?",
+ "briefbouw": [
+  {
+   "type": "zinsbouw",
+   "nl": "Zet de onderdelen van een zakelijke brief in de goede volgorde.",
+   "delen": [
+    "Naam en adres afzender (links)",
+    "Datum (rechts, zonder plaats)",
+    "Naam en adres ontvanger",
+    "Onderwerp (zonder 'Betreff:')",
+    "Sehr geehrte Damen und Herren,",
+    "Boodschap (kleine letter, Sie-vorm)",
+    "Slotzin: Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen",
+    "Naam"
+   ]
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Zet het adres van de ontvanger in de goede volgorde.",
+   "delen": [
+    "Hotel Sonnenhang",
+    "z.Hd. Herrn Meier",
+    "Engelbertstraße 10",
+    "D – 68309 Mannheim"
+   ]
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Zet de onderdelen van een e-mail in de goede volgorde.",
+   "delen": [
+    "An: info@sprachwelt.de",
+    "Betreff: Anfrage zu Ihren Sprachkursen",
+    "Sehr geehrte Damen und Herren,",
+    "Boodschap (Sie-vorm)",
+    "Slotzin",
+    "Freundliche Grüße",
+    "Naam (geen handtekening)"
+   ]
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Zet de onderdelen van een Lebenslauf (cv) in de goede volgorde.",
+   "delen": [
+    "Personalien",
+    "Ausbildung",
+    "Berufserfahrung",
+    "Sonstiges"
+   ]
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Zet de onderdelen van een persoonlijke brief in de goede volgorde.",
+   "delen": [
+    "Den Haag, den 19.11.2026",
+    "Lieber Peter,",
+    "Boodschap (du-vorm)",
+    "Schreib mir bitte bald!",
+    "Viele Grüße",
+    "Lisa"
+   ]
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Kunt u mij laten weten hoeveel de cursus kost?",
+   "zin": "Können Sie mir bitte mitteilen, wie viel der Kurs kostet?"
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik schrijf u omdat ik uw advertentie gelezen heb.",
+   "zin": "Ich schreibe Ihnen, weil ich Ihre Anzeige gelesen habe."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik verzoek u mij een bevestiging te sturen.",
+   "zin": "Ich bitte Sie, mir eine Bestätigung zu schicken."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Op uw website heb ik uw advertentie gelezen.",
+   "zin": "Auf Ihrer Website habe ich Ihre Anzeige gelesen."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Een snelle oplossing zou ik erg op prijs stellen.",
+   "zin": "Über eine schnelle Lösung würde ich mich sehr freuen."
+  }
+ ],
+ "conventies": [
+  {
+   "type": "gat",
+   "zin": "Datum rechtsboven in een zakelijke brief: ___",
+   "antwoord": "19.11.2026",
+   "opties": [
+    "19.11.2026",
+    "Den Haag, 19.11.2026",
+    "19 november 2026"
+   ],
+   "waarom": "Zakelijke brief: datum rechts boven, zonder plaatsnaam (nieuwste regels)."
+  },
+  {
+   "type": "gat",
+   "zin": "Datum in een persoonlijke brief: ___",
+   "antwoord": "Den Haag, den 19.11.2026",
+   "opties": [
+    "Den Haag, den 19.11.2026",
+    "19.11.2026 Den Haag",
+    "den 19 november"
+   ],
+   "waarom": "Persoonlijke brief: plaatsnaam, den + datum."
+  },
+  {
+   "type": "gat",
+   "zin": "Kerkstraat 12, ___ Den Haag (afzender)",
+   "antwoord": "NL – 2565 PH",
+   "opties": [
+    "NL – 2565 PH",
+    "2565 PH",
+    "D – 2565 PH"
+   ],
+   "waarom": "Vanuit Nederland zet je NL – voor de postcode."
+  },
+  {
+   "type": "gat",
+   "zin": "Adres ontvanger: ___ Paul Weber",
+   "antwoord": "Herrn",
+   "opties": [
+    "Herrn",
+    "Herr",
+    "Herren"
+   ],
+   "waarom": "In het adres schrijf je Herrn (aan de heer)."
+  },
+  {
+   "type": "gat",
+   "zin": "Aanhef: Sehr geehrter ___ Weber,",
+   "antwoord": "Herr",
+   "opties": [
+    "Herr",
+    "Herrn",
+    "Herren"
+   ],
+   "waarom": "In de aanhef: Sehr geehrter Herr … (in het adres: Herrn)."
+  },
+  {
+   "type": "gat",
+   "zin": "Sehr geehrte Frau ___,",
+   "antwoord": "Goll",
+   "opties": [
+    "Goll",
+    "Erika Goll",
+    "Erika"
+   ],
+   "waarom": "In de aanhef schrijf je de voornaam niet op."
+  },
+  {
+   "type": "gat",
+   "zin": "Sehr ___ Herr Weber,",
+   "antwoord": "geehrter",
+   "opties": [
+    "geehrter",
+    "geehrte",
+    "geehrten"
+   ],
+   "waarom": "Aan een man: geehrter (met -r). Aan een vrouw: geehrte."
+  },
+  {
+   "type": "gat",
+   "zin": "Onderwerpregel van een brief: ___",
+   "antwoord": "Zimmerreservierung",
+   "opties": [
+    "Zimmerreservierung",
+    "Betreff: Zimmerreservierung",
+    "Onderwerp: Zimmerreservierung"
+   ],
+   "waarom": "In een brief zet je 'Betreff:' er niet voor. Alleen in de kop van een e-mail staat 'Betreff:'."
+  },
+  {
+   "type": "gat",
+   "zin": "Postcode in Oostenrijk: ___ – 1010 Wien",
+   "antwoord": "A",
+   "opties": [
+    "A",
+    "Ö",
+    "AT"
+   ],
+   "waarom": "Oostenrijk: A, Zwitserland: CH, Duitsland: D."
+  },
+  {
+   "type": "gat",
+   "zin": "Hotel Sonnenhang, ___ Herrn Meier",
+   "antwoord": "z.Hd.",
+   "opties": [
+    "z.Hd.",
+    "an",
+    "für"
+   ],
+   "waarom": "z.Hd. (zu Händen) = ter attentie van."
+  },
+  {
+   "type": "gat",
+   "zin": "Sehr geehrte Damen und Herren___",
+   "antwoord": ",",
+   "opties": [
+    ",",
+    "!",
+    ":"
+   ],
+   "waarom": "Na de aanhef een komma."
+  },
+  {
+   "type": "gat",
+   "zin": "Sehr geehrte Damen und Herren, ___ möchte gern ein Zimmer reservieren.",
+   "antwoord": "ich",
+   "opties": [
+    "ich",
+    "Ich"
+   ],
+   "waarom": "Na de komma achter de aanhef begin je met een kleine letter."
+  },
+  {
+   "type": "gat",
+   "zin": "Könnten ___ mir bitte helfen?",
+   "antwoord": "Sie",
+   "opties": [
+    "Sie",
+    "sie",
+    "du"
+   ],
+   "waarom": "Zakelijke brief: altijd de beleefdheidsvorm Sie, met hoofdletter."
+  },
+  {
+   "type": "gat",
+   "zin": "Vielen Dank für ___ Hilfe.",
+   "antwoord": "Ihre",
+   "opties": [
+    "Ihre",
+    "ihre",
+    "deine"
+   ],
+   "waarom": "Ihr/Ihre (uw) met hoofdletter. ihre met kleine letter = haar/hun."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich danke ___ für Ihre schnelle Antwort.",
+   "antwoord": "Ihnen",
+   "opties": [
+    "Ihnen",
+    "ihnen",
+    "dir"
+   ],
+   "waarom": "danken + Dativ: Ihnen (u), met hoofdletter."
+  },
+  {
+   "type": "gat",
+   "zin": "Mit freundlichen ___",
+   "antwoord": "Grüßen",
+   "opties": [
+    "Grüßen",
+    "Grüße",
+    "Gruß"
+   ],
+   "waarom": "Mit freundlichen Grüßen (of: Mit freundlichem Gruß / Freundliche Grüße). Geen komma erachter."
+  },
+  {
+   "type": "gat",
+   "zin": "Persoonlijke brief: ___ Renate,",
+   "antwoord": "Liebe",
+   "opties": [
+    "Liebe",
+    "Lieber",
+    "Sehr geehrte"
+   ],
+   "waarom": "Persoonlijk aan een vrouw: Liebe … , aan een man: Lieber … (of Hallo …)."
+  },
+  {
+   "type": "gat",
+   "zin": "Persoonlijke brief: Wie geht es ___?",
+   "antwoord": "dir",
+   "opties": [
+    "dir",
+    "Ihnen",
+    "dich"
+   ],
+   "waarom": "Persoonlijke brief in de jij-vorm: du, dir, dich, dein."
+  },
+  {
+   "type": "gat",
+   "zin": "In de kop van een e-mail: ___: Anfrage zu Ihren Ferienwohnungen",
+   "antwoord": "Betreff",
+   "opties": [
+    "Betreff",
+    "Thema",
+    "Titel"
+   ],
+   "waarom": "E-mailkop: An:, Cc:, Bcc:, Betreff:."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich würde gern wissen, ___ Sie noch Zimmer frei haben.",
+   "antwoord": "ob",
+   "opties": [
+    "ob",
+    "wenn",
+    "dass"
+   ],
+   "waarom": "ob = of (ja/nee-vraag). Werkwoord achteraan."
+  },
+  {
+   "type": "gat",
+   "zin": "Meinen Lebenslauf finden Sie in der ___.",
+   "antwoord": "Anlage",
+   "opties": [
+    "Anlage",
+    "Beilage",
+    "Bijlage"
+   ],
+   "waarom": "in der Anlage (brief) of im Anhang (e-mail)."
+  }
+ ],
+ "mini": [
+  {
+   "nl": "Vraag of ze nog kamers vrij hebben.",
+   "model": "Haben Sie noch Zimmer frei?",
+   "tip": "Ja/nee-vraag: werkwoord vooraan."
+  },
+  {
+   "nl": "Vraag wat een kamer voor een week met halfpension kost.",
+   "model": "Was kostet ein Zimmer für eine Woche mit Halbpension?",
+   "tip": "Was kostet … ? / Wie viel kostet … ?"
+  },
+  {
+   "nl": "Vraag of het ontbijt bij de prijs inbegrepen is.",
+   "model": "Ist das Frühstück im Preis inbegriffen?",
+   "tip": "inbegriffen = inbegrepen"
+  },
+  {
+   "nl": "Vraag of je bij hen fietsen kunt huren.",
+   "model": "Kann man bei Ihnen Fahrräder mieten?",
+   "tip": "man kann … ; Ihnen met hoofdletter."
+  },
+  {
+   "nl": "Vraag om een bevestiging van je reservering.",
+   "model": "Ich bitte Sie, mir eine Bestätigung zu schicken.",
+   "tip": "bitten … zu + infinitief achteraan."
+  },
+  {
+   "nl": "Vertel dat je uw advertentie op internet hebt gelezen.",
+   "model": "Ich habe Ihre Anzeige im Internet gelesen.",
+   "tip": "Perfekt: habe … gelesen. Ihre met hoofdletter."
+  },
+  {
+   "nl": "Klaag dat de douche niet werkte.",
+   "model": "Leider funktionierte die Dusche nicht.",
+   "tip": "Präteritum: funktionierte. Na leider: werkwoord op plek 2."
+  },
+  {
+   "nl": "Vraag om terugbetaling van de kosten.",
+   "model": "Ich bitte Sie um Rückerstattung der Kosten.",
+   "tip": "bitten um + Akk."
+  },
+  {
+   "nl": "Vertel dat je vloeiend Engels en Duits spreekt.",
+   "model": "Ich spreche fließend Englisch und Deutsch.",
+   "tip": "fließend = vloeiend"
+  },
+  {
+   "nl": "Vertel dat je cv in de bijlage zit.",
+   "model": "Meinen Lebenslauf finden Sie in der Anlage.",
+   "tip": "Meinen (Akk.) vooraan, dan finden Sie."
+  },
+  {
+   "nl": "Vertel dat je in juli twee weken beschikbaar bent.",
+   "model": "Im Juli habe ich zwei Wochen Zeit.",
+   "tip": "Na 'Im Juli' komt het werkwoord op plek 2 (inversie)."
+  },
+  {
+   "nl": "Sluit af: je zou een spoedig antwoord erg op prijs stellen.",
+   "model": "Ich würde mich sehr über eine baldige Antwort freuen.",
+   "tip": "sich freuen über + Akk."
+  }
+ ],
+ "opdrachten": [
+  {
+   "id": "camping",
+   "soort": "brief",
+   "titel": "Reservering camping",
+   "situatie": "Je wilt deze zomer met twee vrienden een week kamperen aan de Bodensee. Je schrijft een brief aan Campingplatz Seeblick, ter attentie van mevrouw Becker, Uferweg 5, 88709 Meersburg (Duitsland).",
+   "punten": [
+    "Vertel wie je bent en dat je een tentplaats wilt reserveren (data, aantal personen).",
+    "Vraag hoeveel een overnachting kost.",
+    "Vraag of je op de camping fietsen kunt huren.",
+    "Vraag of er een zwembad in de buurt is.",
+    "Vraag om een bevestiging en sluit beleefd af."
+   ],
+   "model": "Lisa de Boer\nKerkstraat 12\nNL – 2565 PH Den Haag\n\n19.11.2026\n\nCampingplatz Seeblick\nz.Hd. Frau Becker\nUferweg 5\nD – 88709 Meersburg\n\nReservierung eines Zeltplatzes\n\nSehr geehrte Frau Becker,\n\nich heiße Lisa de Boer und komme aus den Niederlanden. Im Sommer möchte ich mit zwei Freunden eine Woche an den Bodensee fahren. Deshalb möchte ich gern vom 15. bis zum 22. Juli einen Zeltplatz für drei Personen reservieren.\n\nKönnen Sie mir bitte mitteilen, wie viel eine Übernachtung kostet? Gibt es vielleicht eine Ermäßigung für Schüler?\n\nAußerdem hätte ich noch zwei Fragen: Kann man bei Ihnen Fahrräder mieten? Und gibt es in der Nähe ein Schwimmbad?\n\nIch bitte Sie, mir eine Bestätigung zu schicken. Vielen Dank im Voraus für Ihre Hilfe.\n\nIch würde mich sehr über eine baldige Antwort freuen.\n\nMit freundlichen Grüßen\n\nLisa de Boer",
+   "woorden": "90–150"
+  },
+  {
+   "id": "klacht-hotel",
+   "soort": "brief",
+   "titel": "Klacht over een hotel",
+   "situatie": "Je was met je familie een week in Hotel Sonnenhang, Engelbertstraße 10, 68309 Mannheim. Het verblijf viel erg tegen. Je schrijft een klachtbrief aan de directeur, meneer Meier.",
+   "punten": [
+    "Vertel wanneer je in het hotel was en waarom je schrijft.",
+    "Klaag over twee problemen: de kamer was vies en de douche werkte niet.",
+    "Vertel dat je naar de receptie bent gegaan, maar dat niemand hielp.",
+    "Zeg hoe je je voelt en vraag om (een deel van) je geld terug.",
+    "Sluit beleefd af."
+   ],
+   "model": "Lisa de Boer\nKerkstraat 12\nNL – 2565 PH Den Haag\n\n19.11.2026\n\nHotel Sonnenhang\nz.Hd. Herrn Meier\nEngelbertstraße 10\nD – 68309 Mannheim\n\nBeschwerde über meinen Aufenthalt\n\nSehr geehrter Herr Meier,\n\nvom 3. bis zum 10. Oktober habe ich mit meiner Familie in Ihrem Hotel übernachtet. Ich schreibe Ihnen diesen Brief, weil ich einige Beschwerden habe.\n\nLeider war unser Zimmer sehr schmutzig. Außerdem funktionierte die Dusche nicht. Wir sind mehrmals zur Rezeption gegangen, aber niemand hat uns geholfen.\n\nIch bin sehr darüber enttäuscht, denn wir hatten uns sehr auf diesen Urlaub gefreut. Deshalb bitte ich Sie um Rückerstattung eines Teils der Kosten. Wir erwarten einen Preisnachlass von dreißig Prozent.\n\nÜber eine schnelle Lösung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nLisa de Boer",
+   "woorden": "90–150"
+  },
+  {
+   "id": "sollicitatie",
+   "soort": "sollicitatie",
+   "titel": "Sollicitatie vakantiebaan",
+   "situatie": "Op de website www.ferienjobs.de lees je dat het Strandhotel in Warnemünde voor de zomer een hulpkracht in het restaurant zoekt (Aushilfe im Restaurant). Je solliciteert met een brief aan mevrouw Jensen, Strandweg 3, 18119 Rostock.",
+   "punten": [
+    "Noem de functie en waar je de advertentie hebt gelezen.",
+    "Vertel iets over je opleiding en welke talen je spreekt.",
+    "Noem je ervaring en twee eigenschappen die goed bij de baan passen.",
+    "Vertel wanneer je beschikbaar bent en vraag naar de werktijden.",
+    "Verwijs naar je cv (Lebenslauf) en sluit af met de hoop op een gesprek."
+   ],
+   "model": "Lisa de Boer\nKerkstraat 12\nNL – 2565 PH Den Haag\n\n19.11.2026\n\nStrandhotel Warnemünde\nz.Hd. Frau Jensen\nStrandweg 3\nD – 18119 Rostock\n\nBewerbung als Aushilfe im Restaurant\n\nSehr geehrte Frau Jensen,\n\nauf der Website www.ferienjobs.de habe ich Ihre Anzeige gelesen. Ich bewerbe mich um die Stelle als Aushilfe in Ihrem Restaurant.\n\nIch bin 16 Jahre alt und besuche eine Schule in Den Haag. Ich spreche fließend Englisch und Deutsch.\n\nSeit einem Jahr arbeite ich jeden Samstag in einem Café. Deshalb habe ich schon Erfahrung mit Gästen. Ich bin freundlich und zuverlässig und arbeite gern im Team.\n\nVom 6. Juli bis zum 16. August habe ich Zeit. Ich möchte gern mehr über die Arbeitszeiten erfahren.\n\nMeinen Lebenslauf finden Sie in der Anlage. Ich würde mich sehr über eine Einladung zu einem Gespräch freuen.\n\nMit freundlichen Grüßen\n\nLisa de Boer",
+   "woorden": "90–150"
+  },
+  {
+   "id": "email-taalcursus",
+   "soort": "email",
+   "titel": "E-mail: informatie taalcursus",
+   "situatie": "Je wilt in de zomervakantie een Duitse taalcursus van twee weken volgen in München. Op internet heb je de taalschool Sprachwelt gevonden. Je stuurt een e-mail naar info@sprachwelt.de.",
+   "punten": [
+    "Vertel waarom je mailt en waar je de school gevonden hebt.",
+    "Vraag wanneer de cursussen in juli beginnen.",
+    "Vraag hoeveel de cursus kost en of er korting is voor scholieren.",
+    "Vraag of de school kan helpen met een slaapplek bij een gastgezin.",
+    "Bedank en sluit de e-mail beleefd af."
+   ],
+   "model": "An: info@sprachwelt.de\nBetreff: Anfrage zu Ihren Sprachkursen\n\nSehr geehrte Damen und Herren,\n\nich habe Ihre Sprachschule im Internet gefunden. Ich möchte im Sommer zwei Wochen einen Deutschkurs in München machen und hätte gern einige Informationen.\n\nKönnen Sie mir bitte mitteilen, wann die Kurse im Juli beginnen? Außerdem möchte ich gern wissen, wie viel ein Kurs von zwei Wochen kostet. Gibt es eine Ermäßigung für Schüler?\n\nIch habe noch eine Frage: Wäre es möglich, bei einer Gastfamilie zu wohnen? Können Sie mir dabei helfen?\n\nVielen Dank im Voraus für Ihre Hilfe. Ich würde mich sehr über eine baldige Antwort freuen.\n\nFreundliche Grüße\n\nLisa de Boer",
+   "woorden": "90–150"
+  }
+ ]
+}

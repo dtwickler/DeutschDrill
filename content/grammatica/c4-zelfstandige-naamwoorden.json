@@ -1,0 +1,171 @@
+{
+ "onderwerp": "C4 Zelfstandige naamwoorden: geslacht en meervoud",
+ "uitleg": "Geslacht\n• Mannelijk (der): mannelijke personen en dieren (der Vater, der Kater); dagen, maanden, jaargetijden, windstreken (der Montag, der Januar, der Herbst, der Westen); veel stammen van werkwoorden (der Versuch).\n• Vrouwelijk (die): vrouwelijke personen en dieren (die Oma, die Kuh); veel woorden op -e (die Lampe); woorden op -heit, -keit, -ung, -anz, -enz, -ion, -ei, -ik, -tät, -ur (die Freiheit, die Zahlung, die Toleranz, die Fabrik, die Universität).\n• Onzijdig (das): de meeste het-woorden (das Schaf, das Haus); woorden op -chen, -lein (das Mädchen); infinitief als zelfstandig naamwoord (das Essen).\n\nMeervoud (veel uitzonderingen!)\n• Mannelijk: meestal -e + umlaut (der Schrank – die Schränke, der Baum – die Bäume); op -el, -en, -er geen verandering (der Wagen – die Wagen).\n• Vrouwelijk: meestal -n of -en (die Tante – die Tanten, die Lehrerin – die Lehrerinnen).\n• Onzijdig: meestal -e (das Boot – die Boote); op -el, -en, -er en -chen, -lein geen verandering (das Messer – die Messer, das Mädchen – die Mädchen).",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "___ Freiheit",
+   "antwoord": "die",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Op -heit → vrouwelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Montag",
+   "antwoord": "der",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Dagen zijn mannelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Mädchen",
+   "antwoord": "das",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Op -chen → onzijdig."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Zahlung (betaling)",
+   "antwoord": "die",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Op -ung → vrouwelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Herbst",
+   "antwoord": "der",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Jaargetijden zijn mannelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Essen",
+   "antwoord": "das",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Infinitief als zelfstandig naamwoord → onzijdig."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Universität",
+   "antwoord": "die",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Op -tät → vrouwelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Versuch (poging)",
+   "antwoord": "der",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Stam van een werkwoord (versuchen) → vaak mannelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Information",
+   "antwoord": "die",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Op -ion → vrouwelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Westen",
+   "antwoord": "der",
+   "opties": [
+    "der",
+    "die",
+    "das"
+   ],
+   "waarom": "Windstreken zijn mannelijk."
+  },
+  {
+   "type": "gat",
+   "zin": "Meervoud: der Schrank – die ___",
+   "antwoord": "Schränke",
+   "opties": [
+    "Schränke",
+    "Schranke",
+    "Schränken"
+   ],
+   "waarom": "Mannelijk: -e + umlaut."
+  },
+  {
+   "type": "gat",
+   "zin": "Meervoud: der Wagen – die ___",
+   "antwoord": "Wagen",
+   "opties": [
+    "Wagen",
+    "Wägen",
+    "Wagens"
+   ],
+   "waarom": "Op -en → geen verandering."
+  },
+  {
+   "type": "gat",
+   "zin": "Meervoud: die Lehrerin – die ___",
+   "antwoord": "Lehrerinnen",
+   "opties": [
+    "Lehrerinnen",
+    "Lehrerinen",
+    "Lehrerins"
+   ],
+   "waarom": "-in → -innen."
+  },
+  {
+   "type": "gat",
+   "zin": "Meervoud: das Boot – die ___",
+   "antwoord": "Boote",
+   "opties": [
+    "Boote",
+    "Böte",
+    "Boots"
+   ],
+   "waarom": "Onzijdig: meestal -e."
+  },
+  {
+   "type": "gat",
+   "zin": "Meervoud: das Messer – die ___",
+   "antwoord": "Messer",
+   "opties": [
+    "Messer",
+    "Messern",
+    "Messers"
+   ],
+   "waarom": "Op -er → geen verandering."
+  }
+ ]
+}

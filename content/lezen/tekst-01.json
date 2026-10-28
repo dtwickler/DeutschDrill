@@ -1,0 +1,17 @@
+{
+  "titel": "Handyverbot an Schulen?",
+  "bron": "Voorbeeldtekst in examenstijl (zelf geschreven)",
+  "tekst": [
+    "Seit diesem Schuljahr gilt an vielen Schulen in Bayern ein strenges Handyverbot. Die Schülerinnen und Schüler müssen ihr Smartphone morgens in einen Schrank legen und dürfen es erst nach dem Unterricht wieder abholen.",
+    "Die Schulleitung ist zufrieden. „Die Pausen sind wieder lauter“, sagt Direktorin Anna Berger. „Die Kinder reden miteinander, statt auf einen Bildschirm zu starren.“ Außerdem gebe es weniger Streit in den Klassenchats, weil diese tagsüber kaum noch genutzt würden.",
+    "Viele Jugendliche sehen das jedoch anders. Der 16-jährige Jonas findet das Verbot übertrieben: „Wir sind keine kleinen Kinder mehr. Man sollte uns beibringen, vernünftig mit dem Handy umzugehen, statt es einfach wegzunehmen.“ Auch einige Eltern sind skeptisch, denn sie können ihre Kinder in Notfällen nicht mehr direkt erreichen.",
+    "Erste Studien zeigen, dass sich die Konzentration im Unterricht leicht verbessert. Ob die Noten dadurch tatsächlich besser werden, ist allerdings noch unklar. Experten raten deshalb, das Verbot nicht als Lösung für alle Probleme zu sehen."
+  ],
+  "vragen": [
+    { "type": "mc", "vraag": "Wat is de hoofdgedachte van de tekst?", "opties": ["Het handyverbod is een groot succes en verbetert de cijfers.", "Het handyverbod heeft voor- en nadelen; het effect op cijfers is nog onduidelijk.", "Leerlingen en ouders zijn het eens met het handyverbod.", "Experts willen het handyverbod in heel Duitsland invoeren."], "antwoord": 1, "uitleg": "Alinea 2 noemt voordelen, alinea 3 kritiek, en alinea 4 zegt: of de cijfers beter worden is 'noch unklar'. Let op: optie A klinkt logisch maar staat er niet." },
+    { "type": "open", "vraag": "Noem één voordeel van het verbod volgens de schoolleiding (alinea 2). Antwoord in het Nederlands.", "model": "Leerlingen praten weer met elkaar in de pauze / er is minder ruzie in de klassenchats.", "uitleg": "Er wordt om ÉÉN voordeel gevraagd. Eén van beide is genoeg. Geef geen nadeel en geen twee antwoorden als er één gevraagd wordt." },
+    { "type": "mc", "vraag": "Welke functie heeft het woord 'jedoch' aan het begin van alinea 3?", "opties": ["Het geeft een voorbeeld.", "Het geeft een tegenstelling met alinea 2.", "Het geeft een gevolg van alinea 2.", "Het geeft een opsomming."], "antwoord": 1, "uitleg": "jedoch = echter → tegenstelling. Na de positieve schoolleiding komt de kritiek van leerlingen." },
+    { "type": "open", "vraag": "Waarom zijn sommige ouders sceptisch? (alinea 3)", "model": "Ze kunnen hun kinderen bij noodgevallen niet meer direct bereiken.", "uitleg": "Het signaalwoord 'denn' (want) wijst je precies naar de reden." },
+    { "type": "mc", "vraag": "Wat zeggen de eerste onderzoeken over de concentratie?", "opties": ["Die is sterk verbeterd.", "Die is een beetje verbeterd.", "Die is niet veranderd.", "Die is slechter geworden."], "antwoord": 1, "uitleg": "'leicht verbessert' = een beetje verbeterd. Let op nuancewoorden zoals leicht, kaum, eher: 'sterk' is fout." }
+  ]
+}

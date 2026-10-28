@@ -1,0 +1,43 @@
+{
+  "naam": "Shen",
+  "dagdoel": 20,
+  "mijlpalen": [
+    {
+      "id": "op-gang",
+      "titel": "Op gang",
+      "type": "streak",
+      "waarde": 7,
+      "beloning": "€5 Amazon Gift Card"
+    },
+    {
+      "id": "halverwege",
+      "titel": "Halverwege",
+      "type": "beheersing",
+      "waarde": 50,
+      "beloning": "Bioscoopkaartje 2x"
+    },
+    {
+      "id": "volhouder",
+      "titel": "Volhouder",
+      "type": "streak",
+      "waarde": 21,
+      "beloning": "€20 Amazon Gift Card"
+    },
+    {
+      "id": "tentamenklaar",
+      "titel": "Tentamenklaar",
+      "type": "tentamenklaar",
+      "beheersing": 70,
+      "toets": 80,
+      "beloning": "Door Shen te bedenken",
+      "brieven": 3
+    },
+    {
+      "id": "examenkampioen",
+      "titel": "Examenkampioen",
+      "type": "alles",
+      "waarde": 95,
+      "beloning": "Nintendo Switch game naar keuze"
+    }
+  ]
+}

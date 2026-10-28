@@ -1,0 +1,273 @@
+{
+ "onderwerp": "C1.1 Zwakke werkwoorden",
+ "uitleg": "Zwakke werkwoorden veranderen niet van klank. Het voltooid deelwoord eindigt op -t: kaufen – kaufte – gekauft.\n\nO.t.t.: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en.\n• Stam op -d of -t: du -est, er en ihr -et (du redest, er arbeitet).\n• Zo ook sommige werkwoorden op -men/-nen: atmen, rechnen, zeichnen, öffnen, begegnen (er öffnet).\n• Stam op een sisklank (s, ss, ß, z): bij du alleen -t (du reist).\n• Beleefdheidsvorm Sie = de hele infinitief: Sie buchen, Sie haben.\n\nO.v.t.: stam + -te: ich spielte, du spieltest, er spielte, wir spielten, ihr spieltet, sie spielten. Stam op -d/-t: extra e (redete, arbeitete, atmete).",
+ "tabellen": [
+  {
+   "titel": "O.t.t.",
+   "kop": [
+    "",
+    "spielen",
+    "reden",
+    "arbeiten",
+    "atmen",
+    "reisen"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "spiele",
+     "rede",
+     "arbeite",
+     "atme",
+     "reise"
+    ],
+    [
+     "du",
+     "spielst",
+     "redest",
+     "arbeitest",
+     "atmest",
+     "reist"
+    ],
+    [
+     "er/sie/es",
+     "spielt",
+     "redet",
+     "arbeitet",
+     "atmet",
+     "reist"
+    ],
+    [
+     "wir",
+     "spielen",
+     "reden",
+     "arbeiten",
+     "atmen",
+     "reisen"
+    ],
+    [
+     "ihr",
+     "spielt",
+     "redet",
+     "arbeitet",
+     "atmet",
+     "reist"
+    ],
+    [
+     "sie/Sie",
+     "spielen",
+     "reden",
+     "arbeiten",
+     "atmen",
+     "reisen"
+    ]
+   ]
+  },
+  {
+   "titel": "O.v.t.",
+   "kop": [
+    "",
+    "spielen",
+    "reden",
+    "arbeiten",
+    "atmen",
+    "reisen"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "spielte",
+     "redete",
+     "arbeitete",
+     "atmete",
+     "reiste"
+    ],
+    [
+     "du",
+     "spieltest",
+     "redetest",
+     "arbeitetest",
+     "atmetest",
+     "reistest"
+    ],
+    [
+     "er/sie/es",
+     "spielte",
+     "redete",
+     "arbeitete",
+     "atmete",
+     "reiste"
+    ],
+    [
+     "wir",
+     "spielten",
+     "redeten",
+     "arbeiteten",
+     "atmeten",
+     "reisten"
+    ],
+    [
+     "ihr",
+     "spieltet",
+     "redetet",
+     "arbeitetet",
+     "atmetet",
+     "reistet"
+    ],
+    [
+     "sie/Sie",
+     "spielten",
+     "redeten",
+     "arbeiteten",
+     "atmeten",
+     "reisten"
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Du ___ sehr gut Fußball. (spielen)",
+   "antwoord": "spielst",
+   "opties": [
+    "spielst",
+    "spielt",
+    "spielest"
+   ],
+   "waarom": "du → -st: du spielst."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ jeden Samstag in einem Café. (arbeiten)",
+   "antwoord": "arbeitet",
+   "opties": [
+    "arbeitet",
+    "arbeit",
+    "arbeitt"
+   ],
+   "waarom": "Stam op -t → er krijgt -et: er arbeitet."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ zu viel. (reden)",
+   "antwoord": "redest",
+   "opties": [
+    "redest",
+    "redst",
+    "redet"
+   ],
+   "waarom": "Stam op -d → du krijgt -est: du redest."
+  },
+  {
+   "type": "gat",
+   "zin": "Ihr ___ zu schnell. (reden)",
+   "antwoord": "redet",
+   "opties": [
+    "redet",
+    "redt",
+    "redest"
+   ],
+   "waarom": "Stam op -d → ihr krijgt -et: ihr redet."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ gern, oder? (reisen)",
+   "antwoord": "reist",
+   "opties": [
+    "reist",
+    "reisst",
+    "reisest"
+   ],
+   "waarom": "Stam op sisklank (s) → du krijgt alleen -t: du reist."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ das Fenster. (öffnen)",
+   "antwoord": "öffnet",
+   "opties": [
+    "öffnet",
+    "öffnt",
+    "öffnen"
+   ],
+   "waarom": "öffnen hoort bij de -men/-nen-groep → er öffnet."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ sehr schnell. (atmen)",
+   "antwoord": "atmest",
+   "opties": [
+    "atmest",
+    "atmst",
+    "atmet"
+   ],
+   "waarom": "atmen → du atmest (extra e)."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Sie ein Doppelzimmer für zwei Nächte? (buchen)",
+   "antwoord": "Buchen",
+   "opties": [
+    "Buchen",
+    "Bucht",
+    "Buchst"
+   ],
+   "waarom": "Sie-vorm = de hele infinitief: Buchen Sie …?"
+  },
+  {
+   "type": "gat",
+   "zin": "Gestern ___ ich mit meinem Bruder Tennis. (spielen, o.v.t.)",
+   "antwoord": "spielte",
+   "opties": [
+    "spielte",
+    "spielt",
+    "spielete"
+   ],
+   "waarom": "O.v.t. zwak: stam + -te: ich spielte."
+  },
+  {
+   "type": "gat",
+   "zin": "Letzten Sommer ___ wir in einem Hotel. (arbeiten, o.v.t.)",
+   "antwoord": "arbeiteten",
+   "opties": [
+    "arbeiteten",
+    "arbeitten",
+    "arbeiten"
+   ],
+   "waarom": "Stam op -t → extra e: wir arbeiteten."
+  },
+  {
+   "type": "gat",
+   "zin": "Die Dusche ___ nicht. (funktionieren, o.v.t.)",
+   "antwoord": "funktionierte",
+   "opties": [
+    "funktionierte",
+    "funktioniert",
+    "funktionierten"
+   ],
+   "waarom": "die Dusche = er/sie/es → funktionierte."
+  },
+  {
+   "type": "gat",
+   "zin": "Im Sommer ___ wir nach Berlin. (reisen, o.v.t.)",
+   "antwoord": "reisten",
+   "opties": [
+    "reisten",
+    "reiseten",
+    "reistet"
+   ],
+   "waarom": "reisen → wir reisten."
+  },
+  {
+   "type": "gat",
+   "zin": "Du ___ gestern lange mit ihm. (reden, o.v.t.)",
+   "antwoord": "redetest",
+   "opties": [
+    "redetest",
+    "redtest",
+    "redest"
+   ],
+   "waarom": "Stam op -d → du redetest."
+  }
+ ]
+}

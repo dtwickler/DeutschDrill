@@ -1,0 +1,160 @@
+{
+ "onderwerp": "C3 Trappen van vergelijking",
+ "uitleg": "Vergrotende trap -er, overtreffende trap -st / am -sten: dick – dicker – dickst / am dicksten.\n• Eindigt op -d, -t of sisklank (s, ss, sch, ß, z) en klemtoon op de laatste lettergreep → -est: breit – breitest, heiß – heißest, bekannt – bekanntest. (Maar: komisch – komischst.)\n• Umlaut bij een aantal eenlettergrepige woorden: alt, arm, dumm, hart, jung, kalt, klug, kurz, lang, nass, scharf, schwach, stark, warm (alt – älter – ältest).\n• Onregelmatig: groß – größer – größt; hoch – höher – höchst; nah – näher – nächst; gern – lieber – liebst; viel – mehr – meist; gut – besser – best; oft – öfter – häufigst. wenig – weniger – wenigst.\n\nVergelijken: groter dan → größer als. Even groot als → ebenso groß wie, of: gleich groß.\nVoor een zelfstandig naamwoord verbuig je ook nog: der klügste Schüler, mit meinem kleineren Bruder.",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Peter ist größer ___ Oscar.",
+   "antwoord": "als",
+   "opties": [
+    "als",
+    "wie",
+    "dann"
+   ],
+   "waarom": "Na een vergrotende trap: als."
+  },
+  {
+   "type": "gat",
+   "zin": "Anja ist ebenso groß ___ Katrin.",
+   "antwoord": "wie",
+   "opties": [
+    "wie",
+    "als",
+    "so"
+   ],
+   "waarom": "Even … als → ebenso … wie."
+  },
+  {
+   "type": "gat",
+   "zin": "Mein Bruder ist zwei Jahre ___ als ich. (alt)",
+   "antwoord": "älter",
+   "opties": [
+    "älter",
+    "alter",
+    "ältere"
+   ],
+   "waarom": "alt krijgt een umlaut: älter."
+  },
+  {
+   "type": "gat",
+   "zin": "Im Januar ist es ___ als im Oktober. (kalt)",
+   "antwoord": "kälter",
+   "opties": [
+    "kälter",
+    "kalter",
+    "kältest"
+   ],
+   "waarom": "kalt → kälter."
+  },
+  {
+   "type": "gat",
+   "zin": "Tennis spiele ich gern, aber Fußball spiele ich ___. (gern)",
+   "antwoord": "lieber",
+   "opties": [
+    "lieber",
+    "gerner",
+    "mehr"
+   ],
+   "waarom": "gern – lieber – am liebsten."
+  },
+  {
+   "type": "gat",
+   "zin": "Das ist das ___ Hotel der Stadt. (gut, overtreffend)",
+   "antwoord": "beste",
+   "opties": [
+    "beste",
+    "guteste",
+    "bester"
+   ],
+   "waarom": "gut – besser – best; das beste Hotel."
+  },
+  {
+   "type": "gat",
+   "zin": "Die Zugspitze ist der ___ Berg Deutschlands. (hoch)",
+   "antwoord": "höchste",
+   "opties": [
+    "höchste",
+    "hochste",
+    "höhste"
+   ],
+   "waarom": "hoch – höher – höchst."
+  },
+  {
+   "type": "gat",
+   "zin": "Heute ist es am ___. (heiß)",
+   "antwoord": "heißesten",
+   "opties": [
+    "heißesten",
+    "heißsten",
+    "heißten"
+   ],
+   "waarom": "Sisklank met klemtoon → -est: am heißesten."
+  },
+  {
+   "type": "gat",
+   "zin": "Sie hat ___ Zeit als ich. (viel)",
+   "antwoord": "mehr",
+   "opties": [
+    "mehr",
+    "vieler",
+    "meer"
+   ],
+   "waarom": "viel – mehr – meist."
+  },
+  {
+   "type": "gat",
+   "zin": "Jan ist der ___ Schüler unserer Klasse. (klug)",
+   "antwoord": "klügste",
+   "opties": [
+    "klügste",
+    "klugste",
+    "klügeste"
+   ],
+   "waarom": "klug → klügst + verbuiging: der klügste."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich bin mit meinem ___ Bruder beim Arzt gewesen. (klein, vergrotend)",
+   "antwoord": "kleineren",
+   "opties": [
+    "kleineren",
+    "kleiner",
+    "kleinerem"
+   ],
+   "waarom": "Vergrotende trap + verbuiging (3e naamval): kleineren."
+  },
+  {
+   "type": "gat",
+   "zin": "Welcher Supermarkt ist am ___? (nah)",
+   "antwoord": "nächsten",
+   "opties": [
+    "nächsten",
+    "nahsten",
+    "näheren"
+   ],
+   "waarom": "nah – näher – am nächsten."
+  },
+  {
+   "type": "gat",
+   "zin": "Er kommt jetzt ___ als früher. (oft)",
+   "antwoord": "öfter",
+   "opties": [
+    "öfter",
+    "ofter",
+    "mehr oft"
+   ],
+   "waarom": "oft – öfter – am häufigsten."
+  },
+  {
+   "type": "gat",
+   "zin": "Das ist der ___ Weg. (kurz, overtreffend)",
+   "antwoord": "kürzeste",
+   "opties": [
+    "kürzeste",
+    "kurzeste",
+    "kürzste"
+   ],
+   "waarom": "kurz → kürzest (z = sisklank): der kürzeste Weg."
+  }
+ ]
+}

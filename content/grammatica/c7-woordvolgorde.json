@@ -1,0 +1,71 @@
+{
+ "onderwerp": "C7 Woordvolgorde",
+ "uitleg": "Meestal gelijk aan het Nederlands, maar let op:\nHoofdzin\n• Persoonsvorm op plek 2. Begin je met iets anders dan het onderwerp, dan komt het onderwerp ná de persoonsvorm: Morgen fahre ich …\n• Voltooid deelwoord of infinitief zo ver mogelijk achteraan: Ich werde dir etwas über meine Reise erzählen. Er hat uns nichts über die Krankheit seiner Mutter gesagt.\n• Twee infinitieven achter elkaar: andersom dan in het Nederlands. Hij heeft niet kunnen komen – Er hat nicht kommen können.\n• Scheidbare werkwoorden: delen zo ver mogelijk uit elkaar: Sein Zug kommt morgen um vier Uhr an.\nBijzin (dass, weil, wenn, ob, obwohl …)\n• Persoonsvorm zo ver mogelijk achteraan: Ich weiß, dass sie nicht kommen kann.\n• Twee infinitieven: andersom dan in het Nederlands, en dan staat de persoonsvorm níet achteraan: Ich höre, dass er nicht hat kommen können.",
+ "vragen": [
+  {
+   "type": "zinsbouw",
+   "nl": "Morgen ga ik naar Berlijn.",
+   "zin": "Morgen fahre ich nach Berlin."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Gisteren heb ik een film gezien.",
+   "zin": "Gestern habe ich einen Film gesehen."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik zal je iets over mijn reis vertellen.",
+   "zin": "Ich werde dir etwas über meine Reise erzählen."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Hij heeft niet kunnen komen.",
+   "zin": "Er hat nicht kommen können."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Zijn trein komt morgen om vier uur aan.",
+   "zin": "Sein Zug kommt morgen um vier Uhr an."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik weet dat zij niet kan komen.",
+   "zin": "Ich weiß, dass sie nicht kommen kann."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik hoor dat hij niet heeft kunnen komen.",
+   "zin": "Ich höre, dass er nicht hat kommen können."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik blijf thuis omdat ik ziek ben.",
+   "zin": "Ich bleibe zu Hause, weil ich krank bin."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik zou graag willen weten of u nog kamers vrij heeft.",
+   "zin": "Ich möchte gern wissen, ob Sie noch Zimmer frei haben."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Hij spaart om een auto te kopen.",
+   "zin": "Er spart, um ein Auto zu kaufen."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Als het regent, blijven we binnen.",
+   "zin": "Wenn es regnet, bleiben wir drinnen."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "Ik schrijf u omdat ik uw advertentie heb gelezen.",
+   "zin": "Ich schreibe Ihnen, weil ich Ihre Anzeige gelesen habe."
+  },
+  {
+   "type": "zinsbouw",
+   "nl": "De film begint om acht uur.",
+   "zin": "Der Film fängt um acht Uhr an."
+  }
+ ]
+}

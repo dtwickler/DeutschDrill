@@ -1,0 +1,16 @@
+{
+  "titel": "Weniger Fleisch, mehr Zukunft?",
+  "bron": "Voorbeeldtekst in examenstijl (zelf geschreven)",
+  "tekst": [
+    "Immer mehr junge Menschen in Deutschland essen weniger Fleisch. Laut einer Umfrage ernähren sich etwa 15 Prozent der 15- bis 29-Jährigen vegetarisch, bei den über 60-Jährigen sind es lediglich vier Prozent.",
+    "Die Gründe sind unterschiedlich. Viele nennen den Tierschutz, andere die Umwelt: Für ein Kilogramm Rindfleisch werden nämlich bis zu 15.000 Liter Wasser verbraucht. Darüber hinaus verursacht die Tierhaltung einen großen Teil des Ausstoßes von Treibhausgasen.",
+    "Die Fleischindustrie reagiert auf den Trend. Supermärkte verkaufen inzwischen zahlreiche Ersatzprodukte, etwa Burger aus Erbsen oder Wurst aus Soja. Diese Produkte sind zwar beliebt, aber oft teurer als normales Fleisch.",
+    "Ernährungsexperten warnen trotzdem vor einer zu einfachen Sicht. Ersatzprodukte enthalten häufig viel Salz und Zusatzstoffe. „Wer gesund essen will, sollte eher zu Gemüse und Hülsenfrüchten greifen als zu Fertigprodukten“, rät die Ernährungsberaterin Julia Hahn."
+  ],
+  "vragen": [
+    { "type": "mc", "vraag": "Wat blijkt uit de enquête in alinea 1?", "opties": ["Ouderen eten vaker vegetarisch dan jongeren.", "Jongeren eten veel vaker vegetarisch dan ouderen.", "De helft van de jongeren is vegetariër.", "Bijna niemand eet nog vlees."], "antwoord": 1, "uitleg": "15 procent tegenover 'lediglich' (slechts) 4 procent." },
+    { "type": "open", "vraag": "Noem de twee redenen voor de milieu-belasting van vlees die in alinea 2 genoemd worden.", "model": "1) Er wordt veel water verbruikt (tot 15.000 liter per kilo rundvlees). 2) Veeteelt veroorzaakt veel uitstoot van broeikasgassen.", "uitleg": "Hier worden TWEE redenen gevraagd. 'Darüber hinaus' (bovendien) kondigt de tweede aan." },
+    { "type": "mc", "vraag": "Welk nadeel van vleesvervangers wordt in alinea 3 genoemd?", "opties": ["Ze zijn niet lekker.", "Ze zijn vaak duurder dan vlees.", "Ze zijn moeilijk te krijgen.", "Ze bevatten te weinig eiwit."], "antwoord": 1, "uitleg": "'zwar beliebt, aber oft teurer' → het nadeel komt na 'aber'." },
+    { "type": "mc", "vraag": "Wat raadt Julia Hahn aan?", "opties": ["Helemaal geen vlees meer eten.", "Vooral vleesvervangers kopen.", "Liever groente en peulvruchten dan kant-en-klaarproducten.", "Minder zout eten bij vlees."], "antwoord": 2, "uitleg": "'eher … als …' = liever/eerder … dan … ." }
+  ]
+}

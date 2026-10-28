@@ -1,0 +1,152 @@
+{
+ "onderwerp": "C1 Voltooide tijd: haben of sein, ge- of niet",
+ "uitleg": "V.t.t. = haben/sein (o.t.t.) + voltooid deelwoord achteraan: Ich habe gespielt. V.v.t. = hatte/war + voltooid deelwoord: Ich hatte gespielt.\nMeestal hetzelfde hulpwerkwoord als in het Nederlands, maar:\n• haben waar het Nederlands 'zijn' gebruikt: gefallen, heiraten, vergessen, verlieren, beginnen, anfangen, fortfahren, zunehmen, abnehmen, nachlassen, aufhören, enden. (Ik ben getrouwd – Ich habe geheiratet.)\n• sein waar het Nederlands 'hebben' gebruikt: begegnen, laufen, fahren, fliegen, reisen, reiten, schwimmen, wandern. (Ik heb mijn vriend ontmoet – Ich bin meinem Freund begegnet.)\n\nVoltooid deelwoord zwak: ge + stam + t (gespielt). Stam op -d/-t of atmen, rechnen: ge…et (geredet, gearbeitet, geatmet).\nGeen ge-:\n• werkwoorden op -ieren (spazieren – spaziert)\n• voorvoegsel zonder klemtoon: be-, ver-, ent- (verkaufen – verkauft, bekommen – bekommen)\nScheidbaar met klemtoon op het voorvoegsel: ge- ertussen (zumachen – zugemacht, anfangen – angefangen).",
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Gestern ___ ich meinem Freund begegnet.",
+   "antwoord": "bin",
+   "opties": [
+    "bin",
+    "habe"
+   ],
+   "waarom": "begegnen → sein (Nederlands: heb ontmoet)."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Film ___ um acht Uhr angefangen.",
+   "antwoord": "hat",
+   "opties": [
+    "hat",
+    "ist"
+   ],
+   "waarom": "anfangen → haben (Nederlands: is begonnen)."
+  },
+  {
+   "type": "gat",
+   "zin": "In den Ferien ___ wir viel gewandert.",
+   "antwoord": "sind",
+   "opties": [
+    "sind",
+    "haben"
+   ],
+   "waarom": "wandern → sein."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ meinen Schlüssel vergessen.",
+   "antwoord": "habe",
+   "opties": [
+    "habe",
+    "bin"
+   ],
+   "waarom": "vergessen → haben (Nederlands: ben vergeten)."
+  },
+  {
+   "type": "gat",
+   "zin": "Er ___ im Urlaub jeden Tag geschwommen.",
+   "antwoord": "ist",
+   "opties": [
+    "ist",
+    "hat"
+   ],
+   "waarom": "schwimmen → sein."
+  },
+  {
+   "type": "gat",
+   "zin": "Meine Schwester ___ letztes Jahr geheiratet.",
+   "antwoord": "hat",
+   "opties": [
+    "hat",
+    "ist"
+   ],
+   "waarom": "heiraten → haben (Nederlands: is getrouwd)."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich ___ fünf Kilo abgenommen.",
+   "antwoord": "habe",
+   "opties": [
+    "habe",
+    "bin"
+   ],
+   "waarom": "abnehmen → haben (Nederlands: ben afgevallen)."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Regen ___ endlich aufgehört.",
+   "antwoord": "hat",
+   "opties": [
+    "hat",
+    "ist"
+   ],
+   "waarom": "aufhören → haben (Nederlands: is opgehouden)."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir sind gestern im Park ___. (spazieren)",
+   "antwoord": "spaziert",
+   "opties": [
+    "spaziert",
+    "gespaziert",
+    "gespazieren"
+   ],
+   "waarom": "Werkwoorden op -ieren krijgen geen ge-."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich habe mein altes Fahrrad ___. (verkaufen)",
+   "antwoord": "verkauft",
+   "opties": [
+    "verkauft",
+    "geverkauft",
+    "verkaufen"
+   ],
+   "waarom": "ver- zonder klemtoon → geen ge-."
+  },
+  {
+   "type": "gat",
+   "zin": "Hast du die Tür ___? (zumachen)",
+   "antwoord": "zugemacht",
+   "opties": [
+    "zugemacht",
+    "gezumacht",
+    "zumachte"
+   ],
+   "waarom": "Scheidbaar, klemtoon op zu → ge- ertussen."
+  },
+  {
+   "type": "gat",
+   "zin": "Er hat den ganzen Abend ___. (reden)",
+   "antwoord": "geredet",
+   "opties": [
+    "geredet",
+    "geredt",
+    "gereden"
+   ],
+   "waarom": "Stam op -d → ge…et."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich habe den ganzen Tag ___. (arbeiten)",
+   "antwoord": "gearbeitet",
+   "opties": [
+    "gearbeitet",
+    "gearbeit",
+    "arbeitet"
+   ],
+   "waarom": "Stam op -t → ge…et."
+  },
+  {
+   "type": "gat",
+   "zin": "Nachdem wir gegessen ___, gingen wir spazieren.",
+   "antwoord": "hatten",
+   "opties": [
+    "hatten",
+    "haben",
+    "waren"
+   ],
+   "waarom": "V.v.t.: hatte(n) + voltooid deelwoord."
+  }
+ ]
+}

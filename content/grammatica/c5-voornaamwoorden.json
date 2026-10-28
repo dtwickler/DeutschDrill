@@ -1,0 +1,268 @@
+{
+ "onderwerp": "C5 Voornaamwoorden",
+ "uitleg": "Persoonlijk voornaamwoord: zie het schema. In een formele brief: Sie, Ihnen, Ihr (met hoofdletter).\nVragend voornaamwoord: wer (1), wessen (2), wem (3), wen (4). Alleen wer en welch- veranderen van vorm; welch- verbuigt als der/die/das (Mit welchem Freund gehst du ins Theater?).\nBetrekkelijk voornaamwoord: geslacht van het woord waar het naar verwijst, naamval van de functie in de bijzin (Der Mantel, den er trägt, ist alt).",
+ "tabellen": [
+  {
+   "titel": "Persoonlijk voornaamwoord",
+   "kop": [
+    "1e naamval",
+    "3e naamval",
+    "4e naamval"
+   ],
+   "rijen": [
+    [
+     "ich",
+     "mir",
+     "mich"
+    ],
+    [
+     "du",
+     "dir",
+     "dich"
+    ],
+    [
+     "er",
+     "ihm",
+     "ihn"
+    ],
+    [
+     "sie",
+     "ihr",
+     "sie"
+    ],
+    [
+     "es",
+     "ihm",
+     "es"
+    ],
+    [
+     "wir",
+     "uns",
+     "uns"
+    ],
+    [
+     "ihr",
+     "euch",
+     "euch"
+    ],
+    [
+     "sie",
+     "ihnen",
+     "sie"
+    ],
+    [
+     "Sie",
+     "Ihnen",
+     "Sie"
+    ]
+   ]
+  },
+  {
+   "titel": "Betrekkelijk voornaamwoord",
+   "kop": [
+    "",
+    "m",
+    "v",
+    "o",
+    "mv"
+   ],
+   "rijen": [
+    [
+     "1",
+     "der",
+     "die",
+     "das",
+     "die"
+    ],
+    [
+     "2",
+     "dessen",
+     "deren",
+     "dessen",
+     "deren"
+    ],
+    [
+     "3",
+     "dem",
+     "der",
+     "dem",
+     "denen"
+    ],
+    [
+     "4",
+     "den",
+     "die",
+     "das",
+     "die"
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Ich helfe ___ morgen. (hem)",
+   "antwoord": "ihm",
+   "opties": [
+    "ihm",
+    "ihn",
+    "er"
+   ],
+   "waarom": "helfen + Dativ: ihm."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich sehe ___ jeden Tag. (hem)",
+   "antwoord": "ihn",
+   "opties": [
+    "ihn",
+    "ihm",
+    "er"
+   ],
+   "waarom": "Lijdend voorwerp → Akkusativ: ihn."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich gebe ___ das Buch. (haar)",
+   "antwoord": "ihr",
+   "opties": [
+    "ihr",
+    "sie",
+    "ihre"
+   ],
+   "waarom": "Meewerkend voorwerp → Dativ: ihr."
+  },
+  {
+   "type": "gat",
+   "zin": "Kannst du ___ helfen? (ons)",
+   "antwoord": "uns",
+   "opties": [
+    "uns",
+    "unser",
+    "wir"
+   ],
+   "waarom": "helfen + Dativ: uns."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich habe ___ gestern gesehen. (jullie)",
+   "antwoord": "euch",
+   "opties": [
+    "euch",
+    "ihr",
+    "eure"
+   ],
+   "waarom": "Akkusativ van ihr: euch."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich danke ___ für Ihre Hilfe. (u)",
+   "antwoord": "Ihnen",
+   "opties": [
+    "Ihnen",
+    "Sie",
+    "Ihr"
+   ],
+   "waarom": "danken + Dativ: Ihnen."
+  },
+  {
+   "type": "gat",
+   "zin": "Darf ich ___ etwas fragen? (u)",
+   "antwoord": "Sie",
+   "opties": [
+    "Sie",
+    "Ihnen",
+    "Ihr"
+   ],
+   "waarom": "fragen + Akkusativ: Sie."
+  },
+  {
+   "type": "gat",
+   "zin": "___ kommt heute Abend mit?",
+   "antwoord": "Wer",
+   "opties": [
+    "Wer",
+    "Wen",
+    "Wem"
+   ],
+   "waarom": "Onderwerp → wer."
+  },
+  {
+   "type": "gat",
+   "zin": "___ triffst du heute Abend?",
+   "antwoord": "Wen",
+   "opties": [
+    "Wen",
+    "Wem",
+    "Wer"
+   ],
+   "waarom": "Lijdend voorwerp → wen."
+  },
+  {
+   "type": "gat",
+   "zin": "___ gehört dieses Handy?",
+   "antwoord": "Wem",
+   "opties": [
+    "Wem",
+    "Wen",
+    "Wer"
+   ],
+   "waarom": "gehören + Dativ → wem."
+  },
+  {
+   "type": "gat",
+   "zin": "___ Fahrrad ist das? (van wie)",
+   "antwoord": "Wessen",
+   "opties": [
+    "Wessen",
+    "Wem",
+    "Wer"
+   ],
+   "waarom": "Bezit → wessen."
+  },
+  {
+   "type": "gat",
+   "zin": "Mit ___ Freund gehst du ins Theater?",
+   "antwoord": "welchem",
+   "opties": [
+    "welchem",
+    "welchen",
+    "welcher"
+   ],
+   "waarom": "mit + Dativ, der Freund → welchem."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Mantel, ___ er trägt, ist alt.",
+   "antwoord": "den",
+   "opties": [
+    "den",
+    "der",
+    "dem"
+   ],
+   "waarom": "der Mantel is lijdend voorwerp in de bijzin → den."
+  },
+  {
+   "type": "gat",
+   "zin": "Die Freunde, mit ___ ich spiele, sind nett.",
+   "antwoord": "denen",
+   "opties": [
+    "denen",
+    "den",
+    "die"
+   ],
+   "waarom": "mit + Dativ meervoud → denen."
+  },
+  {
+   "type": "gat",
+   "zin": "Die Frau, ___ Auto kaputt ist, wartet auf den Bus.",
+   "antwoord": "deren",
+   "opties": [
+    "deren",
+    "dessen",
+    "der"
+   ],
+   "waarom": "Bezit, vrouwelijk → deren."
+  }
+ ]
+}

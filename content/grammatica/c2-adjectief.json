@@ -1,0 +1,282 @@
+{
+ "onderwerp": "C2.2 Vormen van de naamvallen (lidwoord + bijvoeglijk naamwoord)",
+ "uitleg": "Het bijvoeglijk naamwoord verbuigt mee met het lidwoord.\n• der-groep (zelfde uitgang als der/die/das): dies-, jen-, jed-, solch-, welch-, manch-, all-. der gute Mann – jener gute Mann; das kleine Mädchen – dieses kleine Mädchen.\n• ein-groep (zelfde uitgang als ein): kein-, mein-, dein-, sein-, ihr-, unser-, euer-, Ihr-. ein guter Mann – ihr guter Mann; einer netten Frau – seiner netten Frau.\n• Zonder lidwoord: het bijvoeglijk naamwoord krijgt zelf de uitgang (Der Geschmack kalter Milch gefällt mir nicht. Ich wasche mich mit heißem Wasser.)\n\nSnelle regel: na der/die/das meestal -e, in de 2e/3e naamval en meervoud -en. Na ein laat het bijvoeglijk naamwoord het geslacht zien als ein dat niet doet (ein guter Mann, ein kleines Mädchen).",
+ "tabellen": [
+  {
+   "titel": "der-groep",
+   "kop": [
+    "",
+    "m",
+    "v",
+    "o",
+    "mv"
+   ],
+   "rijen": [
+    [
+     "1",
+     "der gute Mann",
+     "die nette Frau",
+     "das kleine Mädchen",
+     "die lieben Kinder"
+    ],
+    [
+     "2",
+     "des guten Mannes",
+     "der netten Frau",
+     "des kleinen Mädchens",
+     "der lieben Kinder"
+    ],
+    [
+     "3",
+     "dem guten Mann",
+     "der netten Frau",
+     "dem kleinen Mädchen",
+     "den lieben Kindern"
+    ],
+    [
+     "4",
+     "den guten Mann",
+     "die nette Frau",
+     "das kleine Mädchen",
+     "die lieben Kinder"
+    ]
+   ]
+  },
+  {
+   "titel": "ein-groep",
+   "kop": [
+    "",
+    "m",
+    "v",
+    "o",
+    "mv"
+   ],
+   "rijen": [
+    [
+     "1",
+     "ein guter Mann",
+     "eine nette Frau",
+     "ein kleines Mädchen",
+     "keine lieben Kinder"
+    ],
+    [
+     "2",
+     "eines guten Mannes",
+     "einer netten Frau",
+     "eines kleinen Mädchens",
+     "keiner lieben Kinder"
+    ],
+    [
+     "3",
+     "einem guten Mann",
+     "einer netten Frau",
+     "einem kleinen Mädchen",
+     "keinen lieben Kindern"
+    ],
+    [
+     "4",
+     "einen guten Mann",
+     "eine nette Frau",
+     "ein kleines Mädchen",
+     "keine lieben Kinder"
+    ]
+   ]
+  },
+  {
+   "titel": "zonder lidwoord",
+   "kop": [
+    "",
+    "m",
+    "v",
+    "o",
+    "mv"
+   ],
+   "rijen": [
+    [
+     "1",
+     "starker Kaffee",
+     "kalte Milch",
+     "heißes Wasser",
+     "kühle Getränke"
+    ],
+    [
+     "2",
+     "starken Kaffees",
+     "kalter Milch",
+     "heißen Wassers",
+     "kühler Getränke"
+    ],
+    [
+     "3",
+     "starkem Kaffee",
+     "kalter Milch",
+     "heißem Wasser",
+     "kühlen Getränken"
+    ],
+    [
+     "4",
+     "starken Kaffee",
+     "kalte Milch",
+     "heißes Wasser",
+     "kühle Getränke"
+    ]
+   ]
+  }
+ ],
+ "vragen": [
+  {
+   "type": "gat",
+   "zin": "Der neu___ Lehrer ist sehr nett.",
+   "antwoord": "e",
+   "opties": [
+    "e",
+    "en",
+    "er"
+   ],
+   "waarom": "der-groep, 1e naamval → -e."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich habe einen neu___ Laptop.",
+   "antwoord": "en",
+   "opties": [
+    "en",
+    "er",
+    "e"
+   ],
+   "waarom": "4e naamval mannelijk (einen) → -en."
+  },
+  {
+   "type": "gat",
+   "zin": "Das ist ein groß___ Problem.",
+   "antwoord": "es",
+   "opties": [
+    "es",
+    "e",
+    "er"
+   ],
+   "waarom": "ein + onzijdig → het bijv. nw. laat 'das' zien: großes."
+  },
+  {
+   "type": "gat",
+   "zin": "Er wohnt in einer klein___ Stadt.",
+   "antwoord": "en",
+   "opties": [
+    "en",
+    "e",
+    "er"
+   ],
+   "waarom": "3e naamval → -en."
+  },
+  {
+   "type": "gat",
+   "zin": "Dieses klein___ Mädchen heißt Lisa.",
+   "antwoord": "e",
+   "opties": [
+    "e",
+    "es",
+    "en"
+   ],
+   "waarom": "dies- hoort bij de der-groep: dieses kleine Mädchen."
+  },
+  {
+   "type": "gat",
+   "zin": "Welch___ nette Frau hat dir geholfen?",
+   "antwoord": "e",
+   "opties": [
+    "e",
+    "er",
+    "es"
+   ],
+   "waarom": "welch- krijgt de uitgang van die: welche."
+  },
+  {
+   "type": "gat",
+   "zin": "Ihr gut___ Mann kocht jeden Abend.",
+   "antwoord": "er",
+   "opties": [
+    "er",
+    "e",
+    "en"
+   ],
+   "waarom": "ihr hoort bij de ein-groep: ihr guter Mann."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich spreche mit seiner nett___ Frau.",
+   "antwoord": "en",
+   "opties": [
+    "en",
+    "e",
+    "er"
+   ],
+   "waarom": "3e naamval → -en."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich wasche mich mit heiß___ Wasser.",
+   "antwoord": "em",
+   "opties": [
+    "em",
+    "en",
+    "es"
+   ],
+   "waarom": "Zonder lidwoord, 3e naamval onzijdig → -em."
+  },
+  {
+   "type": "gat",
+   "zin": "Der Geschmack kalt___ Milch gefällt mir nicht.",
+   "antwoord": "er",
+   "opties": [
+    "er",
+    "e",
+    "en"
+   ],
+   "waarom": "Zonder lidwoord, 2e naamval vrouwelijk → -er."
+  },
+  {
+   "type": "gat",
+   "zin": "Morgens trinke ich stark___ Kaffee.",
+   "antwoord": "en",
+   "opties": [
+    "en",
+    "er",
+    "es"
+   ],
+   "waarom": "Zonder lidwoord, 4e naamval mannelijk → -en."
+  },
+  {
+   "type": "gat",
+   "zin": "Die alt___ Häuser sind schön.",
+   "antwoord": "en",
+   "opties": [
+    "en",
+    "e",
+    "er"
+   ],
+   "waarom": "Meervoud na die → -en."
+  },
+  {
+   "type": "gat",
+   "zin": "Wir haben keine frei___ Zimmer mehr.",
+   "antwoord": "en",
+   "opties": [
+    "en",
+    "e",
+    "er"
+   ],
+   "waarom": "kein- in het meervoud → -en."
+  },
+  {
+   "type": "gat",
+   "zin": "Ich suche eine billig___ Unterkunft.",
+   "antwoord": "e",
+   "opties": [
+    "e",
+    "en",
+    "es"
+   ],
+   "waarom": "eine + vrouwelijk 4e naamval → -e."
+  }
+ ]
+}
